@@ -3,7 +3,7 @@ const React = require('react')
 const containerStyle = {
   width: '16rem',
   height: '32rem',
-  fontFamily: 'Input Mono',
+  fontFamily: 'Input Sans, sans-serif',
   textRendering: 'optimizeLegibility',
 	fontSmoothing: 'antialiased',
 	WebkitFontSmoothing: 'antialiased',
@@ -55,6 +55,7 @@ const nameStyle = {
 }
 
 const hashStyle = {
+  fontFamily: 'Input Mono, monospace',
   color: '#5E5E5E',
   fontSize: '0.5rem',
   lineHeight: '0.75rem',
@@ -63,6 +64,7 @@ const hashStyle = {
   overflow: 'hidden',
   textOverflow: 'ellipsis',
   width: '11rem',
+  letterSpacing: '0.025rem'
 }
 
 const mapStyle = {
