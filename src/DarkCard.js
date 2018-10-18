@@ -60,6 +60,9 @@ const mapStyle = {
   height: '16rem',
 }
 
+const leftPad = n => (''+n).length !== 2 ? '0'+n : n
+
+const mapPath = `http://localhost:5000/maps/${leftPad(Math.floor(Math.random() * 31))}.png`
 
 module.exports = ({name = 'John Doe', image = '1375dcb48bcd5bd1fe7daebbf3b1c714.jpg'}) => (
   <div style={containerStyle}>
@@ -72,7 +75,10 @@ module.exports = ({name = 'John Doe', image = '1375dcb48bcd5bd1fe7daebbf3b1c714.
         </div>
       </div>
       <div style={mapStyle}>
-        <img src={''}/>
+        <img
+          src={mapPath}
+          style={{width: '100%'}}
+        />
       </div>
     </div>
   </div>
