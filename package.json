@@ -12,8 +12,9 @@
     "styled-components": "^4.0.2"
   },
   "scripts": {
-    "start": "react-scripts start",
-    "build": "react-scripts build"
+    "media": "serve public",
+    "dev": "npm run media & react-scripts start",
+    "build": "npm run media & node src/save.js"
   },
   "eslintConfig": {
     "extends": "react-app"
