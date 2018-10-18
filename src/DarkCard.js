@@ -37,6 +37,7 @@ const avatarStyle = {
   overflow: 'hidden',
   background: '#333',
   objectFit: 'cover',
+  flexShrink: 0,
 }
 
 const rightStyle = {
@@ -47,6 +48,10 @@ const nameStyle = {
   fontSize: '0.875rem',
   lineHeight: '1.125rem',
   marginBottom: '0.125rem',
+  whiteSpace: 'nowrap',
+  overflow: 'hidden',
+  textOverflow: 'ellipsis',
+  width: '11rem',
 }
 
 const hashStyle = {
@@ -54,21 +59,27 @@ const hashStyle = {
   fontSize: '0.5rem',
   lineHeight: '0.75rem',
   fontWeight: 500,
+  whiteSpace: 'nowrap',
+  overflow: 'hidden',
+  textOverflow: 'ellipsis',
+  width: '11rem',
 }
 
 const mapStyle = {
-  height: '16rem',
+  mixBlendMode: 'screen',
 }
 
 const leftPad = n => (''+n).length !== 2 ? '0'+n : n
 
 const mapPath = `http://localhost:5000/maps/${leftPad(Math.floor(Math.random() * 31))}.png`
 
-module.exports = ({name = 'John Doe', image = '1375dcb48bcd5bd1fe7daebbf3b1c714.jpg'}) => (
+module.exports = ({name = 'John Doe', image = '1375dcb48bcd5bd1fe7daebbf3b1c7141375dcb48bcd5bd1fe7daebbf3b1c7141375dcb48bcd5bd1fe7daebbf3b1c7141375dcb48bcd5bd1fe7daebbf3b1c714.jpg'}) => (
   <div style={containerStyle}>
     <div style={wrapperStyle}>
       <div style={headerStyle}>
-        <div style={avatarStyle}><img src={image}/></div>
+        <div style={avatarStyle}>
+          <img src={image} style={{width: '100%', display: 'block'}}/>
+        </div>
         <div style={rightStyle}>
           <div style={nameStyle}>{name}</div>
           <div style={hashStyle}>{image.split('.')[0]}</div>
@@ -77,7 +88,7 @@ module.exports = ({name = 'John Doe', image = '1375dcb48bcd5bd1fe7daebbf3b1c714.
       <div style={mapStyle}>
         <img
           src={mapPath}
-          style={{width: '100%'}}
+          style={{width: '100%', display: 'block', mixBlendMode: 'screen'}}
         />
       </div>
     </div>
