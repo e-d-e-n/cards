@@ -70,24 +70,23 @@ const mapStyle = {
 }
 
 const leftPad = n => (''+n).length !== 2 ? '0'+n : n
+const mapPath = () => `http://localhost:5000/maps/${leftPad(Math.floor(Math.random() * 31))}.png`
 
-const mapPath = `http://localhost:5000/maps/${leftPad(Math.floor(Math.random() * 31))}.png`
-
-module.exports = ({name = 'John Doe', image = '1375dcb48bcd5bd1fe7daebbf3b1c7141375dcb48bcd5bd1fe7daebbf3b1c7141375dcb48bcd5bd1fe7daebbf3b1c7141375dcb48bcd5bd1fe7daebbf3b1c714.jpg'}) => (
+module.exports = ({src = "29683503_1619938971408545_8331702238720023048_n.jpg", name = "Luiz J Pereira"}) => (
   <div style={containerStyle}>
     <div style={wrapperStyle}>
       <div style={headerStyle}>
         <div style={avatarStyle}>
-          <img src={image} style={{width: '100%', display: 'block'}}/>
+          <img src={`http://localhost:5000/profiles/files/${src}`} style={{width: '100%', display: 'block'}}/>
         </div>
         <div style={rightStyle}>
           <div style={nameStyle}>{name}</div>
-          <div style={hashStyle}>{image.split('.')[0]}</div>
+          <div style={hashStyle}>{src.replace(/\..+$/, '')}</div>
         </div>
       </div>
       <div style={mapStyle}>
         <img
-          src={mapPath}
+          src={mapPath()}
           style={{width: '100%', display: 'block', mixBlendMode: 'screen'}}
         />
       </div>
