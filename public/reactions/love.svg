@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>love</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="love">
+            <path d="M32,16 C32,24.836556 24.836556,32 16,32 C7.163444,32 1.082166e-15,24.836556 0,16 C-1.082166e-15,7.163444 7.163444,1.623249e-15 16,0 C20.2435508,-0.000283815934 24.3133783,1.68533449 27.3140219,4.68597807 C30.3146655,7.68662165 32.0002838,11.7564492 32,16" id="Shape" fill="#F0546A" fill-rule="nonzero"></path>
+            <path d="M20.91466,8.25643 C16.54642,8.25643 15.99932,11.77457 15.99932,11.77457 C15.99932,11.77457 15.45513,8.25643 11.08415,8.25643 C6.88423,8.25643 5.65815,12.54325 6.16881,14.83543 C7.52106,20.89258 15.99933,25.13736 15.99933,25.13736 C15.99933,25.13736 24.47775,20.89257 25.83,14.83542 C26.34063,12.54325 25.11457,8.25642 20.91466,8.25642" id="Shape" fill="#FFFFFF"></path>
+        </g>
+    </g>
+</svg>

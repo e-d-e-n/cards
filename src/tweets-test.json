@@ -1,0 +1,62 @@
+[
+  {
+    "author": {
+      "at": "folha",
+      "name": "Folha de S.Paulo",
+      "profile": "http://pbs.twimg.com/profile_images/2611288520/gfiw6lklhvm09f530wp4_normal.jpeg",
+      "location": "São Paulo, Brazil",
+      "verified": true,
+      "color": "0084B4"
+    },
+    "tweet": "Nem sua tia nem seu 'crush' são fascistas, escreve Reinaldo Azevedo",
+    "date": "2018-10-22T06:27:00.000Z",
+    "media": "http://pbs.twimg.com/media/DqFMHhMWsAAUXMN.jpg",
+    "retweets": 1,
+    "favorites": 8
+  },
+  {
+    "author": {
+      "at": "folha",
+      "name": "Folha de S.Paulo",
+      "profile": "http://pbs.twimg.com/profile_images/2611288520/gfiw6lklhvm09f530wp4_normal.jpeg",
+      "location": "São Paulo, Brazil",
+      "verified": true,
+      "color": "0084B4"
+    },
+    "tweet": "Desenho de mapas vira arma por maioria legislativa nos EUA",
+    "date": "2018-10-22T06:24:02.000Z",
+    "media": false,
+    "retweets": 0,
+    "favorites": 1
+  },
+  {
+    "author": {
+      "at": "g1",
+      "name": "G1",
+      "profile": "http://pbs.twimg.com/profile_images/895772431457157121/n8bWszjh_normal.jpg",
+      "location": "Brasil",
+      "verified": true,
+      "color": "A80000"
+    },
+    "tweet": "Ataque arquitetado de dentro das cadeias é descoberto a tempo #G1",
+    "date": "2018-10-22T02:30:00.000Z",
+    "media": "http://pbs.twimg.com/media/DqEtSOgXcAEDpBZ.jpg",
+    "retweets": 8,
+    "favorites": 96
+  },
+  {
+    "author": {
+      "at": "g1",
+      "name": "G1",
+      "profile": "http://pbs.twimg.com/profile_images/895772431457157121/n8bWszjh_normal.jpg",
+      "location": "Brasil",
+      "verified": true,
+      "color": "A80000"
+    },
+    "tweet": "Saiba qual é a melhor forma de conversar com crianças pequenas #G1",
+    "date": "2018-10-22T02:00:01.000Z",
+    "media": "http://pbs.twimg.com/media/DqEqgh7XcAEQcZh.jpg",
+    "retweets": 13,
+    "favorites": 122
+  }
+]
