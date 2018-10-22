@@ -24,9 +24,15 @@ const wrapperStyle = {
 }
 
 const textStyle = {
-	padding: '1rem 1.125rem 1.125rem',
+	padding: '1rem 1.125rem 0.25rem',
 }
 
+const dateStyle = {
+	padding: '0.25rem 1.125rem 0.75rem',
+	fontSize: '0.675rem',
+	opacity: 0.44,
+	display: 'flex',
+}
 
 const sources = [
 	'folha',
@@ -55,6 +61,9 @@ const parse = (string, color) => string.replace(/^&gt;\s*/g, '').split(/ +/g).re
 
 const mediaImage = author => `http://localhost:5000/media/${sources.includes(author.at.toLowerCase()) ? author.at : 'catly'}.svg`
 
+const formatDate = string => new Date(string).toLocaleDateString('pt-BR', {day: '2-digit', month: '2-digit', year: '2-digit'}).split('/').join('.')
+const formatTime = string => new Date(string).toLocaleTimeString('en-US', {hour: '2-digit', minute:'2-digit'})
+
 module.exports = ({author, tweet, date, color, media, retweets, favorites}) => (
 	<div style={containerStyle}>
 		<div style={wrapperStyle}>
@@ -67,6 +76,13 @@ module.exports = ({author, tweet, date, color, media, retweets, favorites}) => (
 			{!!tweet && (
 				<div style={textStyle}>
 					{parse(tweet, author.color)}
+				</div>
+			)}
+			{!!date && (
+				<div style={dateStyle}>
+					<div>{formatDate(date)}</div>
+					<div>&nbsp;|&nbsp;</div>
+					<div>{formatTime(date)}</div>
 				</div>
 			)}
 		</div>
