@@ -42,7 +42,7 @@ const sources = [
 
 const hashStyle = color => ({color: `#${color}`, fontStyle: 'normal', fontWeight: 500})
 
-const parse = (string, color) => string.split(/ +/g).reduce((elements, word) => {
+const parse = (string, color) => string.replace(/&gt;/g, '').split(/ +/g).reduce((elements, word) => {
 	const spaced = ` ${word} `
 	elements.push(
 		!['#', '@'].includes(word[0])

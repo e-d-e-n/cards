@@ -16,7 +16,7 @@ const imgStyle = {
 
 const hashStyle = {color: '#365899', fontStyle: 'normal', fontWeight: 500}
 
-const parse = string => string.split(/ +/g).reduce((elements, word) => {
+const parse = string => string.replace(/&gt;/g, '').split(/ +/g).reduce((elements, word) => {
 	const spaced = ` ${word} `
 	elements.push(
 		['#', '@'].includes(word[0]) ? <em style={hashStyle}> {spaced} </em> : spaced
