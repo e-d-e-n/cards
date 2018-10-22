@@ -8,11 +8,41 @@
       "verified": true,
       "color": "0084B4"
     },
+    "tweet": "Conheça ruas, cafés e até o cemitério de Edimburgo que serviram de inspiração para 'Harry Potter'…",
+    "date": "2018-10-22T09:35:00.000Z",
+    "media": false,
+    "retweets": 5,
+    "favorites": 66
+  },
+  {
+    "author": {
+      "at": "folha",
+      "name": "Folha de S.Paulo",
+      "profile": "http://pbs.twimg.com/profile_images/2611288520/gfiw6lklhvm09f530wp4_normal.jpeg",
+      "location": "São Paulo, Brazil",
+      "verified": true,
+      "color": "0084B4"
+    },
+    "tweet": "Reajuste do INSS menor que inflação deixa aposentados no vermelho",
+    "date": "2018-10-22T09:08:00.000Z",
+    "media": "http://pbs.twimg.com/media/DqFTetUWoAMWM2E.jpg",
+    "retweets": 13,
+    "favorites": 48
+  },
+  {
+    "author": {
+      "at": "folha",
+      "name": "Folha de S.Paulo",
+      "profile": "http://pbs.twimg.com/profile_images/2611288520/gfiw6lklhvm09f530wp4_normal.jpeg",
+      "location": "São Paulo, Brazil",
+      "verified": true,
+      "color": "0084B4"
+    },
     "tweet": "Intercâmbio em alta: conheça prós e contras dos dez países mais procurados pelos brasileiros",
     "date": "2018-10-22T08:29:00.000Z",
     "media": "http://pbs.twimg.com/media/DqFMqHrXgAApQNB.jpg",
-    "retweets": 4,
-    "favorites": 19
+    "retweets": 9,
+    "favorites": 34
   },
   {
     "author": {
@@ -26,8 +56,8 @@
     "tweet": "Lula não é comentarista de política, diz Dodge sobre entrevista na prisão",
     "date": "2018-10-22T08:04:00.000Z",
     "media": "http://pbs.twimg.com/media/DqFTzY8X4AA3i5Z.jpg",
-    "retweets": 8,
-    "favorites": 66
+    "retweets": 13,
+    "favorites": 97
   },
   {
     "author": {
@@ -42,7 +72,7 @@
     "date": "2018-10-22T07:34:00.000Z",
     "media": "http://pbs.twimg.com/media/DqFN1OJX4AI1fQL.jpg",
     "retweets": 3,
-    "favorites": 10
+    "favorites": 16
   },
   {
     "author": {
@@ -56,8 +86,8 @@
     "tweet": "Montanha de 'Game of Thrones' se casa na Islândia",
     "date": "2018-10-22T07:02:00.000Z",
     "media": "http://pbs.twimg.com/media/DqFTSCUWwAAD2a3.jpg",
-    "retweets": 4,
-    "favorites": 53
+    "retweets": 5,
+    "favorites": 77
   },
   {
     "author": {
@@ -71,8 +101,8 @@
     "tweet": "Cursos online ajudam a tirar projetos de startups do papel",
     "date": "2018-10-22T07:00:02.000Z",
     "media": false,
-    "retweets": 0,
-    "favorites": 11
+    "retweets": 2,
+    "favorites": 13
   },
   {
     "author": {
@@ -87,7 +117,7 @@
     "date": "2018-10-22T06:51:02.000Z",
     "media": false,
     "retweets": 1,
-    "favorites": 13
+    "favorites": 16
   },
   {
     "author": {
@@ -101,8 +131,8 @@
     "tweet": "Temores ambientais",
     "date": "2018-10-22T06:42:02.000Z",
     "media": false,
-    "retweets": 8,
-    "favorites": 15
+    "retweets": 9,
+    "favorites": 17
   },
   {
     "author": {
@@ -116,8 +146,8 @@
     "tweet": "Entenda regras de posse e porte de armas no Brasil e o estatuto do desarmamento",
     "date": "2018-10-22T06:33:02.000Z",
     "media": false,
-    "retweets": 14,
-    "favorites": 36
+    "retweets": 16,
+    "favorites": 45
   },
   {
     "author": {
@@ -132,7 +162,7 @@
     "date": "2018-10-22T06:27:00.000Z",
     "media": "http://pbs.twimg.com/media/DqFMHhMWsAAUXMN.jpg",
     "retweets": 4,
-    "favorites": 30
+    "favorites": 33
   },
   {
     "author": {
@@ -146,8 +176,8 @@
     "tweet": "Desenho de mapas vira arma por maioria legislativa nos EUA",
     "date": "2018-10-22T06:24:02.000Z",
     "media": false,
-    "retweets": 1,
-    "favorites": 1
+    "retweets": 2,
+    "favorites": 2
   },
   {
     "author": {
@@ -162,7 +192,7 @@
     "date": "2018-10-22T06:15:03.000Z",
     "media": false,
     "retweets": 8,
-    "favorites": 29
+    "favorites": 36
   },
   {
     "author": {
@@ -191,8 +221,8 @@
     "tweet": "Prestígio com Bolsonaro agrada, mas também preocupa cúpula militar",
     "date": "2018-10-22T05:57:02.000Z",
     "media": false,
-    "retweets": 12,
-    "favorites": 29
+    "retweets": 13,
+    "favorites": 36
   },
   {
     "author": {
@@ -206,8 +236,8 @@
     "tweet": "Saiba o que é mito e o que é verdade sobre o uso do WheyProtein",
     "date": "2018-10-22T05:55:00.000Z",
     "media": "http://pbs.twimg.com/media/DqFUSSvWkAAqbSc.jpg",
-    "retweets": 1,
-    "favorites": 14
+    "retweets": 2,
+    "favorites": 17
   },
   {
     "author": {
@@ -222,7 +252,7 @@
     "date": "2018-10-22T05:48:02.000Z",
     "media": false,
     "retweets": 6,
-    "favorites": 29
+    "favorites": 32
   },
   {
     "author": {
@@ -236,8 +266,8 @@
     "tweet": "Fala de Eduardo Bolsonaro é golpista, diz Celso de Mello, decano do STF",
     "date": "2018-10-22T05:39:02.000Z",
     "media": false,
-    "retweets": 82,
-    "favorites": 240
+    "retweets": 109,
+    "favorites": 349
   },
   {
     "author": {
@@ -266,7 +296,7 @@
     "tweet": "Toffoli acaba com trava que inibia o uso político do CNJ",
     "date": "2018-10-22T05:30:02.000Z",
     "media": false,
-    "retweets": 9,
+    "retweets": 10,
     "favorites": 21
   },
   {
@@ -281,8 +311,8 @@
     "tweet": "General do Alto Comando já disse que Exército não tem candidato",
     "date": "2018-10-22T05:21:03.000Z",
     "media": false,
-    "retweets": 24,
-    "favorites": 66
+    "retweets": 28,
+    "favorites": 81
   },
   {
     "author": {
@@ -296,8 +326,8 @@
     "tweet": "Estratégia digital da campanha de Bolsonaro é uma jabuticaba, diz pesquisador",
     "date": "2018-10-22T05:12:02.000Z",
     "media": false,
-    "retweets": 16,
-    "favorites": 47
+    "retweets": 17,
+    "favorites": 52
   },
   {
     "author": {
@@ -311,8 +341,8 @@
     "tweet": "Prefeitura não paga conta de água e luz, e muro verde de Doria definha na 23 de maio",
     "date": "2018-10-22T05:03:02.000Z",
     "media": false,
-    "retweets": 50,
-    "favorites": 114
+    "retweets": 53,
+    "favorites": 125
   },
   {
     "author": {
@@ -326,8 +356,8 @@
     "tweet": "Ana Estela Haddad faz estilo primeira-dama de arregaçar mangas",
     "date": "2018-10-22T04:54:02.000Z",
     "media": false,
-    "retweets": 83,
-    "favorites": 432
+    "retweets": 107,
+    "favorites": 613
   },
   {
     "author": {
@@ -341,8 +371,8 @@
     "tweet": "Na mira de Bolsonaro, lei afrouxa, e 6 armas são vendidas por hora a civis",
     "date": "2018-10-22T04:45:02.000Z",
     "media": false,
-    "retweets": 41,
-    "favorites": 91
+    "retweets": 44,
+    "favorites": 102
   },
   {
     "author": {
@@ -357,7 +387,7 @@
     "date": "2018-10-22T04:36:03.000Z",
     "media": false,
     "retweets": 8,
-    "favorites": 43
+    "favorites": 44
   },
   {
     "author": {
@@ -371,8 +401,8 @@
     "tweet": "Uso banalizado do termo fortalece o fascismo, afirma historiador italiano",
     "date": "2018-10-22T04:32:00.000Z",
     "media": "http://pbs.twimg.com/media/DqFNasWXQAANFTs.jpg",
-    "retweets": 29,
-    "favorites": 99
+    "retweets": 31,
+    "favorites": 109
   },
   {
     "author": {
@@ -402,7 +432,7 @@
     "date": "2018-10-22T04:18:03.000Z",
     "media": false,
     "retweets": 5,
-    "favorites": 25
+    "favorites": 26
   },
   {
     "author": {
@@ -416,8 +446,8 @@
     "tweet": "Projeto leva feira de ciências para presídio",
     "date": "2018-10-22T04:09:03.000Z",
     "media": false,
-    "retweets": 13,
-    "favorites": 88
+    "retweets": 14,
+    "favorites": 92
   },
   {
     "author": {
@@ -432,7 +462,7 @@
     "date": "2018-10-22T03:58:00.000Z",
     "media": "http://pbs.twimg.com/media/DqFLIV0W4AIOXEa.jpg",
     "retweets": 15,
-    "favorites": 62
+    "favorites": 64
   },
   {
     "author": {
@@ -447,7 +477,7 @@
     "date": "2018-10-22T03:26:02.000Z",
     "media": false,
     "retweets": 6,
-    "favorites": 43
+    "favorites": 46
   },
   {
     "author": {
@@ -461,8 +491,8 @@
     "tweet": "Ao redor do país, manifestantes afirmam que atuam nas redes sociais para Bolsonaro de graça",
     "date": "2018-10-22T03:24:00.000Z",
     "media": "http://pbs.twimg.com/media/DqFLeIOWoAIGYJh.jpg",
-    "retweets": 95,
-    "favorites": 481
+    "retweets": 109,
+    "favorites": 554
   },
   {
     "author": {
@@ -477,7 +507,7 @@
     "date": "2018-10-22T03:17:02.000Z",
     "media": false,
     "retweets": 13,
-    "favorites": 170
+    "favorites": 171
   },
   {
     "author": {
@@ -537,7 +567,7 @@
     "date": "2018-10-22T01:55:00.000Z",
     "media": "http://pbs.twimg.com/media/DqEwYB5XcAA9ZCq.jpg",
     "retweets": 3,
-    "favorites": 48
+    "favorites": 49
   },
   {
     "author": {
@@ -552,7 +582,7 @@
     "date": "2018-10-22T01:45:00.000Z",
     "media": "http://pbs.twimg.com/media/DqEwAAqW4AAInIb.jpg",
     "retweets": 16,
-    "favorites": 88
+    "favorites": 90
   },
   {
     "author": {
@@ -566,7 +596,7 @@
     "tweet": "Mercado Aberto | Setor farmacêutico quer fim de controle de preços de remédios",
     "date": "2018-10-22T01:23:00.000Z",
     "media": "http://pbs.twimg.com/media/DqEvvwJXcAA-Zs0.jpg",
-    "retweets": 49,
+    "retweets": 50,
     "favorites": 91
   },
   {
@@ -581,8 +611,8 @@
     "tweet": "Presidente de associação de Procuradores diz que campanha de Bolsonaro tem propostas inconstitucionais",
     "date": "2018-10-22T01:12:03.000Z",
     "media": false,
-    "retweets": 325,
-    "favorites": 873
+    "retweets": 349,
+    "favorites": 944
   },
   {
     "author": {
@@ -627,7 +657,7 @@
     "date": "2018-10-22T00:28:00.000Z",
     "media": "http://pbs.twimg.com/media/DqElM5OXcAAYm3f.jpg",
     "retweets": 4,
-    "favorites": 118
+    "favorites": 119
   },
   {
     "author": {
@@ -642,7 +672,7 @@
     "date": "2018-10-22T00:17:00.000Z",
     "media": "http://pbs.twimg.com/media/DqEgoqKX0AEZfEX.jpg",
     "retweets": 30,
-    "favorites": 87
+    "favorites": 89
   },
   {
     "author": {
@@ -672,7 +702,7 @@
     "date": "2018-10-21T23:49:33.000Z",
     "media": false,
     "retweets": 33,
-    "favorites": 133
+    "favorites": 136
   },
   {
     "author": {
@@ -702,7 +732,7 @@
     "date": "2018-10-21T23:31:03.000Z",
     "media": false,
     "retweets": 9,
-    "favorites": 100
+    "favorites": 101
   },
   {
     "author": {
@@ -716,38 +746,203 @@
     "tweet": "Atos a favor de Jair Bolsonaro ironizam suspeita de caixa dois",
     "date": "2018-10-21T23:09:02.000Z",
     "media": false,
-    "retweets": 411,
-    "favorites": 1753
+    "retweets": 437,
+    "favorites": 1851
   },
   {
     "author": {
-      "at": "folha",
-      "name": "Folha de S.Paulo",
-      "profile": "http://pbs.twimg.com/profile_images/2611288520/gfiw6lklhvm09f530wp4_normal.jpeg",
-      "location": "São Paulo, Brazil",
+      "at": "g1",
+      "name": "G1",
+      "profile": "http://pbs.twimg.com/profile_images/895772431457157121/n8bWszjh_normal.jpg",
+      "location": "Brasil",
       "verified": true,
-      "color": "0084B4"
+      "color": "A80000"
     },
-    "tweet": "Brasil deveria discutir relação entre maconha e violência, diz especialista canadense; para ele, Canadá legalizou a…",
-    "date": "2018-10-21T23:03:00.000Z",
+    "tweet": "Zeca Baleiro retoma parceria com Frejat, após dez anos, no primeiro single do álbum 'O amor no caos'…",
+    "date": "2018-10-22T09:55:00.000Z",
     "media": false,
-    "retweets": 60,
-    "favorites": 299
+    "retweets": 2,
+    "favorites": 54
   },
   {
     "author": {
-      "at": "folha",
-      "name": "Folha de S.Paulo",
-      "profile": "http://pbs.twimg.com/profile_images/2611288520/gfiw6lklhvm09f530wp4_normal.jpeg",
-      "location": "São Paulo, Brazil",
+      "at": "g1",
+      "name": "G1",
+      "profile": "http://pbs.twimg.com/profile_images/895772431457157121/n8bWszjh_normal.jpg",
+      "location": "Brasil",
       "verified": true,
-      "color": "0084B4"
+      "color": "A80000"
     },
-    "tweet": "Luta política dá tom a disco que celebra carreira de Ricardo Vilas",
-    "date": "2018-10-21T23:00:02.000Z",
+    "tweet": "Nara Leão é perfilada em livro que expõe trajetória engajada da artista #G1",
+    "date": "2018-10-22T09:52:00.000Z",
+    "media": "http://pbs.twimg.com/media/DqGkZwnWwAAKmpw.jpg",
+    "retweets": 2,
+    "favorites": 35
+  },
+  {
+    "author": {
+      "at": "g1",
+      "name": "G1",
+      "profile": "http://pbs.twimg.com/profile_images/895772431457157121/n8bWszjh_normal.jpg",
+      "location": "Brasil",
+      "verified": true,
+      "color": "A80000"
+    },
+    "tweet": "#Eleições2018: como se proteger da tristeza, da raiva e do medo? #G1",
+    "date": "2018-10-22T09:46:00.000Z",
+    "media": "http://pbs.twimg.com/media/DqGjHQ4WoAEIzJt.jpg",
+    "retweets": 20,
+    "favorites": 95
+  },
+  {
+    "author": {
+      "at": "g1",
+      "name": "G1",
+      "profile": "http://pbs.twimg.com/profile_images/895772431457157121/n8bWszjh_normal.jpg",
+      "location": "Brasil",
+      "verified": true,
+      "color": "A80000"
+    },
+    "tweet": "Tiro atinge janela de UTI neonatal na Zona Norte do Rio #G1",
+    "date": "2018-10-22T09:45:29.000Z",
     "media": false,
-    "retweets": 0,
-    "favorites": 15
+    "retweets": 3,
+    "favorites": 24
+  },
+  {
+    "author": {
+      "at": "g1",
+      "name": "G1",
+      "profile": "http://pbs.twimg.com/profile_images/895772431457157121/n8bWszjh_normal.jpg",
+      "location": "Brasil",
+      "verified": true,
+      "color": "A80000"
+    },
+    "tweet": "A britânica que só conseguia falar alemão após sofrer acidente de bicicleta #G1",
+    "date": "2018-10-22T09:45:00.000Z",
+    "media": "http://pbs.twimg.com/media/DqGi6A3WkAASxCG.jpg",
+    "retweets": 7,
+    "favorites": 55
+  },
+  {
+    "author": {
+      "at": "g1",
+      "name": "G1",
+      "profile": "http://pbs.twimg.com/profile_images/895772431457157121/n8bWszjh_normal.jpg",
+      "location": "Brasil",
+      "verified": true,
+      "color": "A80000"
+    },
+    "tweet": "#Enem2018: cartão de confirmação será divulgado nesta segunda #G1",
+    "date": "2018-10-22T09:41:00.000Z",
+    "media": "http://pbs.twimg.com/media/DqGh5q8WsAEx2lC.jpg",
+    "retweets": 13,
+    "favorites": 71
+  },
+  {
+    "author": {
+      "at": "g1",
+      "name": "G1",
+      "profile": "http://pbs.twimg.com/profile_images/895772431457157121/n8bWszjh_normal.jpg",
+      "location": "Brasil",
+      "verified": true,
+      "color": "A80000"
+    },
+    "tweet": "Zé Ramalho tem sucesso de 1992 revivido em trilha de outra novela do gênero realismo fantástico…",
+    "date": "2018-10-22T09:36:32.000Z",
+    "media": false,
+    "retweets": 7,
+    "favorites": 100
+  },
+  {
+    "author": {
+      "at": "g1",
+      "name": "G1",
+      "profile": "http://pbs.twimg.com/profile_images/895772431457157121/n8bWszjh_normal.jpg",
+      "location": "Brasil",
+      "verified": true,
+      "color": "A80000"
+    },
+    "tweet": "Fachin nega pedido do PSOL para impor restrições ao WhatsApp #Eleições2018 #G1",
+    "date": "2018-10-22T09:34:00.000Z",
+    "media": false,
+    "retweets": 32,
+    "favorites": 150
+  },
+  {
+    "author": {
+      "at": "g1",
+      "name": "G1",
+      "profile": "http://pbs.twimg.com/profile_images/895772431457157121/n8bWszjh_normal.jpg",
+      "location": "Brasil",
+      "verified": true,
+      "color": "A80000"
+    },
+    "tweet": "TSE dá prosseguimento a ação do PDT contra Bolsonaro, mas nega pedido de liminar",
+    "date": "2018-10-22T09:33:00.000Z",
+    "media": false,
+    "retweets": 13,
+    "favorites": 65
+  },
+  {
+    "author": {
+      "at": "g1",
+      "name": "G1",
+      "profile": "http://pbs.twimg.com/profile_images/895772431457157121/n8bWszjh_normal.jpg",
+      "location": "Brasil",
+      "verified": true,
+      "color": "A80000"
+    },
+    "tweet": "Brasil registra 3,4 mil mortes violentas em agosto; já são mais de 34 mil no ano",
+    "date": "2018-10-22T09:30:00.000Z",
+    "media": false,
+    "retweets": 6,
+    "favorites": 38
+  },
+  {
+    "author": {
+      "at": "g1",
+      "name": "G1",
+      "profile": "http://pbs.twimg.com/profile_images/895772431457157121/n8bWszjh_normal.jpg",
+      "location": "Brasil",
+      "verified": true,
+      "color": "A80000"
+    },
+    "tweet": "Mais de 200 concursos têm inscrições abertas para quase 27 mil vagas #G1",
+    "date": "2018-10-22T09:27:00.000Z",
+    "media": "http://pbs.twimg.com/media/DqGer_NXgAAAuzS.jpg",
+    "retweets": 5,
+    "favorites": 58
+  },
+  {
+    "author": {
+      "at": "g1",
+      "name": "G1",
+      "profile": "http://pbs.twimg.com/profile_images/895772431457157121/n8bWszjh_normal.jpg",
+      "location": "Brasil",
+      "verified": true,
+      "color": "A80000"
+    },
+    "tweet": "Terremotos atingem o Canadá #G1",
+    "date": "2018-10-22T09:23:13.000Z",
+    "media": false,
+    "retweets": 12,
+    "favorites": 73
+  },
+  {
+    "author": {
+      "at": "g1",
+      "name": "G1",
+      "profile": "http://pbs.twimg.com/profile_images/895772431457157121/n8bWszjh_normal.jpg",
+      "location": "Brasil",
+      "verified": true,
+      "color": "A80000"
+    },
+    "tweet": "#G1 e #CBN promovem debate com os candidatos ao governo do RJ nesta segunda #Eleições2018",
+    "date": "2018-10-22T09:16:25.000Z",
+    "media": "http://pbs.twimg.com/media/DqGgo_mW4AAYJmc.jpg",
+    "retweets": 3,
+    "favorites": 22
   },
   {
     "author": {
@@ -762,7 +957,7 @@
     "date": "2018-10-22T02:30:00.000Z",
     "media": "http://pbs.twimg.com/media/DqEtSOgXcAEDpBZ.jpg",
     "retweets": 8,
-    "favorites": 102
+    "favorites": 103
   },
   {
     "author": {
@@ -776,8 +971,8 @@
     "tweet": "Saiba qual é a melhor forma de conversar com crianças pequenas #G1",
     "date": "2018-10-22T02:00:01.000Z",
     "media": "http://pbs.twimg.com/media/DqEqgh7XcAEQcZh.jpg",
-    "retweets": 13,
-    "favorites": 127
+    "retweets": 14,
+    "favorites": 129
   },
   {
     "author": {
@@ -791,8 +986,8 @@
     "tweet": "Justiça determina prisão preventiva de policiais envolvidos em tiroteio em Minas Gerais #G1",
     "date": "2018-10-22T01:30:00.000Z",
     "media": "http://pbs.twimg.com/media/DqEp9tKWsAA_1YR.jpg",
-    "retweets": 26,
-    "favorites": 163
+    "retweets": 29,
+    "favorites": 167
   },
   {
     "author": {
@@ -806,8 +1001,8 @@
     "tweet": "É nesta segunda, 10h30! Um debate com um formato inédito, promovido pelo #G1 e a rádio CBN\n\nVeja os detalhes…",
     "date": "2018-10-22T00:55:45.000Z",
     "media": false,
-    "retweets": 6,
-    "favorites": 50
+    "retweets": 7,
+    "favorites": 52
   },
   {
     "author": {
@@ -822,7 +1017,7 @@
     "date": "2018-10-22T00:30:00.000Z",
     "media": "http://pbs.twimg.com/media/DqEnT00WwAAJYYD.jpg",
     "retweets": 10,
-    "favorites": 275
+    "favorites": 277
   },
   {
     "author": {
@@ -837,7 +1032,7 @@
     "date": "2018-10-22T00:09:40.000Z",
     "media": "http://pbs.twimg.com/media/DqEjZaxX0AU0TLe.jpg",
     "retweets": 43,
-    "favorites": 390
+    "favorites": 400
   },
   {
     "author": {
@@ -866,8 +1061,8 @@
     "tweet": "É nesta segunda, 10h30! Um debate com um formato inédito, promovido pelo #G1 e a rádio CBN\n\nVeja os detalhes…",
     "date": "2018-10-21T23:00:28.000Z",
     "media": false,
-    "retweets": 4,
-    "favorites": 57
+    "retweets": 5,
+    "favorites": 58
   },
   {
     "author": {
@@ -882,7 +1077,7 @@
     "date": "2018-10-21T22:15:51.000Z",
     "media": "http://pbs.twimg.com/media/DqEJbcqX4AAlZb9.jpg",
     "retweets": 135,
-    "favorites": 862
+    "favorites": 876
   },
   {
     "author": {
@@ -897,7 +1092,7 @@
     "date": "2018-10-21T21:39:37.000Z",
     "media": "http://pbs.twimg.com/media/DqEBJT7XcAA3ypC.jpg",
     "retweets": 14,
-    "favorites": 174
+    "favorites": 175
   },
   {
     "author": {
@@ -912,7 +1107,7 @@
     "date": "2018-10-21T21:00:00.000Z",
     "media": "http://pbs.twimg.com/media/DqD1lhsWoAIcySM.jpg",
     "retweets": 11,
-    "favorites": 111
+    "favorites": 112
   },
   {
     "author": {
@@ -927,7 +1122,7 @@
     "date": "2018-10-21T20:30:00.000Z",
     "media": "http://pbs.twimg.com/media/DqDqdovXcAI1GQ4.jpg",
     "retweets": 72,
-    "favorites": 645
+    "favorites": 650
   },
   {
     "author": {
@@ -957,7 +1152,7 @@
     "date": "2018-10-21T19:04:34.000Z",
     "media": false,
     "retweets": 22,
-    "favorites": 154
+    "favorites": 155
   },
   {
     "author": {
@@ -1002,7 +1197,7 @@
     "date": "2018-10-21T17:33:28.000Z",
     "media": "http://pbs.twimg.com/media/DqDIyzuXcAAaFkB.jpg",
     "retweets": 29,
-    "favorites": 247
+    "favorites": 249
   },
   {
     "author": {
@@ -1017,7 +1212,7 @@
     "date": "2018-10-21T17:10:07.000Z",
     "media": "http://pbs.twimg.com/media/DqDDZxTWwAYjDvY.jpg",
     "retweets": 16,
-    "favorites": 94
+    "favorites": 95
   },
   {
     "author": {
@@ -1047,7 +1242,7 @@
     "date": "2018-10-21T16:02:00.000Z",
     "media": "http://pbs.twimg.com/media/DqCdiw3XQAYmhDN.jpg",
     "retweets": 9,
-    "favorites": 88
+    "favorites": 90
   },
   {
     "author": {
@@ -1061,8 +1256,8 @@
     "tweet": "Brasil e Chile concluem negociação sobre acordo de livre comércio #G1",
     "date": "2018-10-21T15:02:00.000Z",
     "media": false,
-    "retweets": 23,
-    "favorites": 235
+    "retweets": 24,
+    "favorites": 237
   },
   {
     "author": {
@@ -1077,7 +1272,7 @@
     "date": "2018-10-21T14:26:00.000Z",
     "media": "http://pbs.twimg.com/media/DqCZgLgWoAAIMfw.jpg",
     "retweets": 73,
-    "favorites": 355
+    "favorites": 356
   },
   {
     "author": {
@@ -1092,7 +1287,7 @@
     "date": "2018-10-21T14:05:15.000Z",
     "media": "http://pbs.twimg.com/media/DqCZEdxX4AAytBx.jpg",
     "retweets": 6,
-    "favorites": 103
+    "favorites": 104
   },
   {
     "author": {
@@ -1137,7 +1332,7 @@
     "date": "2018-10-21T11:34:00.000Z",
     "media": "http://pbs.twimg.com/media/DqBsCQrXgAE--0e.jpg",
     "retweets": 31,
-    "favorites": 341
+    "favorites": 342
   },
   {
     "author": {
@@ -1167,7 +1362,7 @@
     "date": "2018-10-21T10:24:16.000Z",
     "media": "http://pbs.twimg.com/media/DqBmaTKXcAIYJ9_.jpg",
     "retweets": 201,
-    "favorites": 1207
+    "favorites": 1210
   },
   {
     "author": {
@@ -1197,7 +1392,7 @@
     "date": "2018-10-21T01:20:00.000Z",
     "media": "http://pbs.twimg.com/media/Dp_kjssW4AETaDF.jpg",
     "retweets": 79,
-    "favorites": 539
+    "favorites": 540
   },
   {
     "author": {
@@ -1272,7 +1467,7 @@
     "date": "2018-10-20T22:16:40.000Z",
     "media": "http://pbs.twimg.com/media/Dp-_9-SXcAASX9X.jpg",
     "retweets": 565,
-    "favorites": 2860
+    "favorites": 2861
   },
   {
     "author": {
@@ -1306,198 +1501,93 @@
   },
   {
     "author": {
-      "at": "g1",
-      "name": "G1",
-      "profile": "http://pbs.twimg.com/profile_images/895772431457157121/n8bWszjh_normal.jpg",
-      "location": "Brasil",
+      "at": "Estadao",
+      "name": "Estadão",
+      "profile": "http://pbs.twimg.com/profile_images/930054894731579392/WGqwI8XJ_normal.jpg",
+      "location": "São Paulo",
       "verified": true,
-      "color": "A80000"
+      "color": "336699"
     },
-    "tweet": "Último integrante da equipe de JK, Affonso Heliodoro morre aos 102 anos #G1",
-    "date": "2018-10-20T20:49:13.000Z",
-    "media": "http://pbs.twimg.com/media/Dp-r-tgX4AE5pGq.jpg",
-    "retweets": 33,
-    "favorites": 374
-  },
-  {
-    "author": {
-      "at": "g1",
-      "name": "G1",
-      "profile": "http://pbs.twimg.com/profile_images/895772431457157121/n8bWszjh_normal.jpg",
-      "location": "Brasil",
-      "verified": true,
-      "color": "A80000"
-    },
-    "tweet": "Ex-primeiro-ministro holandês Wim Kok morre aos 80 anos #G1",
-    "date": "2018-10-20T20:16:32.000Z",
-    "media": "http://pbs.twimg.com/media/Dp-khvAXQAAFD07.jpg",
-    "retweets": 13,
-    "favorites": 83
-  },
-  {
-    "author": {
-      "at": "g1",
-      "name": "G1",
-      "profile": "http://pbs.twimg.com/profile_images/895772431457157121/n8bWszjh_normal.jpg",
-      "location": "Brasil",
-      "verified": true,
-      "color": "A80000"
-    },
-    "tweet": "Conheça a super-roupa que aumenta a mobilidade e ajuda idosos a se locomover #G1",
-    "date": "2018-10-20T19:41:44.000Z",
-    "media": "http://pbs.twimg.com/media/Dp-chEEXcAAE3Zm.jpg",
-    "retweets": 61,
-    "favorites": 370
-  },
-  {
-    "author": {
-      "at": "g1",
-      "name": "G1",
-      "profile": "http://pbs.twimg.com/profile_images/895772431457157121/n8bWszjh_normal.jpg",
-      "location": "Brasil",
-      "verified": true,
-      "color": "A80000"
-    },
-    "tweet": "Bombeiros registram quase 200 mortes por afogamento em Alagoas neste ano #G1",
-    "date": "2018-10-20T19:09:28.000Z",
-    "media": "http://pbs.twimg.com/media/Dp-VJJJWoAASl4Y.jpg",
-    "retweets": 10,
-    "favorites": 84
-  },
-  {
-    "author": {
-      "at": "g1",
-      "name": "G1",
-      "profile": "http://pbs.twimg.com/profile_images/895772431457157121/n8bWszjh_normal.jpg",
-      "location": "Brasil",
-      "verified": true,
-      "color": "A80000"
-    },
-    "tweet": "Bolsonaro diz que buscará comércio 'sem viés ideológico' na América do Sul #G1",
-    "date": "2018-10-20T18:39:06.000Z",
-    "media": "http://pbs.twimg.com/media/Dp-OJ6SWoAURaX9.jpg",
-    "retweets": 44,
-    "favorites": 468
-  },
-  {
-    "author": {
-      "at": "g1",
-      "name": "G1",
-      "profile": "http://pbs.twimg.com/profile_images/895772431457157121/n8bWszjh_normal.jpg",
-      "location": "Brasil",
-      "verified": true,
-      "color": "A80000"
-    },
-    "tweet": "Ventania chega a 89 km/h, destelha casas e derruba árvores no Espírito Santo #G1",
-    "date": "2018-10-20T18:05:00.000Z",
-    "media": "http://pbs.twimg.com/media/Dp-Gb2VXQAE9IWW.jpg",
-    "retweets": 9,
-    "favorites": 69
-  },
-  {
-    "author": {
-      "at": "g1",
-      "name": "G1",
-      "profile": "http://pbs.twimg.com/profile_images/895772431457157121/n8bWszjh_normal.jpg",
-      "location": "Brasil",
-      "verified": true,
-      "color": "A80000"
-    },
-    "tweet": "Sem dinheiro, pai usa sacolas de mercado e cria fantasia de princesa para filha ir a festa em escola de SC #G1",
-    "date": "2018-10-20T17:35:31.000Z",
+    "tweet": "&gt;@EstadaoInter Fareed Zakaria: O que o assassinato de Khashoggi nos diz sobre os EUA",
+    "date": "2018-10-22T10:00:01.000Z",
     "media": false,
-    "retweets": 2368,
-    "favorites": 9994
+    "retweets": 1,
+    "favorites": 0
   },
   {
     "author": {
-      "at": "g1",
-      "name": "G1",
-      "profile": "http://pbs.twimg.com/profile_images/895772431457157121/n8bWszjh_normal.jpg",
-      "location": "Brasil",
+      "at": "Estadao",
+      "name": "Estadão",
+      "profile": "http://pbs.twimg.com/profile_images/930054894731579392/WGqwI8XJ_normal.jpg",
+      "location": "São Paulo",
       "verified": true,
-      "color": "A80000"
+      "color": "336699"
     },
-    "tweet": "Angela Merkel condena morte do jornalista Jamal Khashoggi e exige explicação da Arábia Saudita…",
-    "date": "2018-10-20T17:23:55.000Z",
+    "tweet": "PODCAST: Plano de Bolsonaro sobre armas vai atender os mais ricos",
+    "date": "2018-10-22T09:50:00.000Z",
     "media": false,
-    "retweets": 15,
-    "favorites": 118
+    "retweets": 5,
+    "favorites": 19
   },
   {
     "author": {
-      "at": "g1",
-      "name": "G1",
-      "profile": "http://pbs.twimg.com/profile_images/895772431457157121/n8bWszjh_normal.jpg",
-      "location": "Brasil",
+      "at": "Estadao",
+      "name": "Estadão",
+      "profile": "http://pbs.twimg.com/profile_images/930054894731579392/WGqwI8XJ_normal.jpg",
+      "location": "São Paulo",
       "verified": true,
-      "color": "A80000"
+      "color": "336699"
     },
-    "tweet": "Professor acusado de estuprar 5 alunas é condenado a 100 anos de prisão em Rondônia #G1",
-    "date": "2018-10-20T16:40:43.000Z",
+    "tweet": "&gt;@EstadaoPolitica Corregedor abre mais duas ações para investigar campanha de Bolsonaro",
+    "date": "2018-10-22T09:40:00.000Z",
     "media": false,
     "retweets": 48,
-    "favorites": 456
+    "favorites": 148
   },
   {
     "author": {
-      "at": "g1",
-      "name": "G1",
-      "profile": "http://pbs.twimg.com/profile_images/895772431457157121/n8bWszjh_normal.jpg",
-      "location": "Brasil",
+      "at": "Estadao",
+      "name": "Estadão",
+      "profile": "http://pbs.twimg.com/profile_images/930054894731579392/WGqwI8XJ_normal.jpg",
+      "location": "São Paulo",
       "verified": true,
-      "color": "A80000"
+      "color": "336699"
     },
-    "tweet": "PF abre inquérito para apurar disseminação de conteúdo falso contra candidatos, diz ministro #G1",
-    "date": "2018-10-20T16:14:24.000Z",
-    "media": false,
-    "retweets": 59,
-    "favorites": 288
+    "tweet": "Confira 7 passos para você planejar sua viagem voluntária",
+    "date": "2018-10-22T09:30:00.000Z",
+    "media": "http://pbs.twimg.com/media/DqGeeECW4AAOoCj.jpg",
+    "retweets": 3,
+    "favorites": 50
   },
   {
     "author": {
-      "at": "g1",
-      "name": "G1",
-      "profile": "http://pbs.twimg.com/profile_images/895772431457157121/n8bWszjh_normal.jpg",
-      "location": "Brasil",
+      "at": "Estadao",
+      "name": "Estadão",
+      "profile": "http://pbs.twimg.com/profile_images/930054894731579392/WGqwI8XJ_normal.jpg",
+      "location": "São Paulo",
       "verified": true,
-      "color": "A80000"
+      "color": "336699"
     },
-    "tweet": "Acidente entre caminhonete e carro deixa um morto em Maceió #G1",
-    "date": "2018-10-20T16:09:00.000Z",
-    "media": "http://pbs.twimg.com/media/Dp9ZrxaW4AAAiPo.jpg",
+    "tweet": "EDITORIAL: 'Uma campanha diferente'",
+    "date": "2018-10-22T09:19:44.000Z",
+    "media": "http://pbs.twimg.com/media/DqGhZ8SWsAA2uvO.jpg",
+    "retweets": 4,
+    "favorites": 31
+  },
+  {
+    "author": {
+      "at": "Estadao",
+      "name": "Estadão",
+      "profile": "http://pbs.twimg.com/profile_images/930054894731579392/WGqwI8XJ_normal.jpg",
+      "location": "São Paulo",
+      "verified": true,
+      "color": "336699"
+    },
+    "tweet": "CAPA: Bolsonaro enquadra o PSL e faz acenos a partidos do Centrão",
+    "date": "2018-10-22T09:01:37.000Z",
+    "media": "http://pbs.twimg.com/media/DqGdIRlX4AAasaM.jpg",
     "retweets": 9,
-    "favorites": 59
-  },
-  {
-    "author": {
-      "at": "g1",
-      "name": "G1",
-      "profile": "http://pbs.twimg.com/profile_images/895772431457157121/n8bWszjh_normal.jpg",
-      "location": "Brasil",
-      "verified": true,
-      "color": "A80000"
-    },
-    "tweet": "Incêndio atinge indústria farmacêutica EMS em Hortolândia, SP #G1",
-    "date": "2018-10-20T15:59:48.000Z",
-    "media": "http://pbs.twimg.com/media/Dp9puNtWwAEsxkT.jpg",
-    "retweets": 44,
-    "favorites": 155
-  },
-  {
-    "author": {
-      "at": "g1",
-      "name": "G1",
-      "profile": "http://pbs.twimg.com/profile_images/895772431457157121/n8bWszjh_normal.jpg",
-      "location": "Brasil",
-      "verified": true,
-      "color": "A80000"
-    },
-    "tweet": "Fã traz 'mini boneca Shakira de Olinda' para entregar à cantora em show em São Paulo #G1",
-    "date": "2018-10-20T15:41:20.000Z",
-    "media": "http://pbs.twimg.com/media/Dp9lhsyW4AIhIR3.jpg",
-    "retweets": 96,
-    "favorites": 472
+    "favorites": 45
   },
   {
     "author": {
@@ -1511,8 +1601,8 @@
     "tweet": "&gt;@EstadaoPaladar: Por que San Sebastian, na Espanha, virou um grande destino gastronômico",
     "date": "2018-10-22T08:56:00.000Z",
     "media": "http://pbs.twimg.com/media/DqESDZ7XgAQrakh.jpg",
-    "retweets": 1,
-    "favorites": 9
+    "retweets": 4,
+    "favorites": 17
   },
   {
     "author": {
@@ -1526,8 +1616,8 @@
     "tweet": "Maisa Silva se assusta ao saber que Sabrina Sato é ex-BBB",
     "date": "2018-10-22T08:26:00.000Z",
     "media": "http://pbs.twimg.com/media/DqEOTk_WsAAUmTS.jpg",
-    "retweets": 6,
-    "favorites": 48
+    "retweets": 10,
+    "favorites": 98
   },
   {
     "author": {
@@ -1542,7 +1632,7 @@
     "date": "2018-10-22T07:56:00.000Z",
     "media": "http://pbs.twimg.com/media/DqEPOEkWoAEdcX8.jpg",
     "retweets": 2,
-    "favorites": 21
+    "favorites": 29
   },
   {
     "author": {
@@ -1556,8 +1646,8 @@
     "tweet": "'O Anel do Nibelungo', obra-prima de Richard Wagner, é lançada em quadrinhos",
     "date": "2018-10-22T07:26:00.000Z",
     "media": "http://pbs.twimg.com/media/DqER3PvXgAATGiL.jpg",
-    "retweets": 8,
-    "favorites": 35
+    "retweets": 12,
+    "favorites": 48
   },
   {
     "author": {
@@ -1572,7 +1662,7 @@
     "date": "2018-10-22T06:56:00.000Z",
     "media": false,
     "retweets": 1,
-    "favorites": 12
+    "favorites": 16
   },
   {
     "author": {
@@ -1586,8 +1676,8 @@
     "tweet": "'Não se tem respeito pelas instituições', diz Marco Aurélio sobre vídeo de Eduardo Bolsonaro",
     "date": "2018-10-22T06:26:01.000Z",
     "media": "http://pbs.twimg.com/media/DqERaryWwAA6LYh.jpg",
-    "retweets": 18,
-    "favorites": 91
+    "retweets": 25,
+    "favorites": 128
   },
   {
     "author": {
@@ -1602,7 +1692,7 @@
     "date": "2018-10-22T05:56:00.000Z",
     "media": false,
     "retweets": 6,
-    "favorites": 27
+    "favorites": 32
   },
   {
     "author": {
@@ -1616,8 +1706,8 @@
     "tweet": "Fátima Bernardes comemora aniversário de 21 anos dos trigêmeos",
     "date": "2018-10-22T05:26:00.000Z",
     "media": "http://pbs.twimg.com/media/DqEOKmiX4AE5DhV.jpg",
-    "retweets": 3,
-    "favorites": 100
+    "retweets": 4,
+    "favorites": 111
   },
   {
     "author": {
@@ -1631,8 +1721,8 @@
     "tweet": "&gt;@EstadaoInter Brasil e Chile concluem negociações para acordo de livre comércio",
     "date": "2018-10-22T04:56:00.000Z",
     "media": false,
-    "retweets": 18,
-    "favorites": 124
+    "retweets": 19,
+    "favorites": 133
   },
   {
     "author": {
@@ -1661,8 +1751,8 @@
     "tweet": "&gt;@EstadaoInter Bolsonaro diz que PT pode ter instigado empresário a contratar empresa para divulgar fake news",
     "date": "2018-10-22T03:56:00.000Z",
     "media": false,
-    "retweets": 47,
-    "favorites": 222
+    "retweets": 66,
+    "favorites": 292
   },
   {
     "author": {
@@ -1677,7 +1767,7 @@
     "date": "2018-10-22T03:26:00.000Z",
     "media": "http://pbs.twimg.com/media/DqEQcHEXgAA09qJ.jpg",
     "retweets": 4,
-    "favorites": 33
+    "favorites": 34
   },
   {
     "author": {
@@ -1691,8 +1781,8 @@
     "tweet": "&gt;@EstadaoEconomia Previdência de militar poderá ser poupada em eventual reforma",
     "date": "2018-10-22T02:56:00.000Z",
     "media": false,
-    "retweets": 22,
-    "favorites": 49
+    "retweets": 23,
+    "favorites": 53
   },
   {
     "author": {
@@ -1721,8 +1811,8 @@
     "tweet": "&gt;@EstadaoInter Afegãos desafiam ataques e ameaças para ir às urnas em eleições parlamentares",
     "date": "2018-10-22T01:56:00.000Z",
     "media": false,
-    "retweets": 16,
-    "favorites": 84
+    "retweets": 17,
+    "favorites": 86
   },
   {
     "author": {
@@ -1736,8 +1826,8 @@
     "tweet": "Trump promete fazer 'todo o possível' para deter caravana de imigrantes",
     "date": "2018-10-22T01:26:00.000Z",
     "media": "http://pbs.twimg.com/media/DqEL2aAW4AANbah.jpg",
-    "retweets": 10,
-    "favorites": 113
+    "retweets": 12,
+    "favorites": 116
   },
   {
     "author": {
@@ -1752,7 +1842,7 @@
     "date": "2018-10-22T00:56:00.000Z",
     "media": "http://pbs.twimg.com/media/DqERQCoXgAEIrnu.jpg",
     "retweets": 15,
-    "favorites": 67
+    "favorites": 68
   },
   {
     "author": {
@@ -1767,7 +1857,7 @@
     "date": "2018-10-22T00:26:00.000Z",
     "media": "http://pbs.twimg.com/media/DqEQKhkWoAQwckC.jpg",
     "retweets": 14,
-    "favorites": 72
+    "favorites": 73
   },
   {
     "author": {
@@ -1781,8 +1871,8 @@
     "tweet": "Doria defende mudança para impedir que vices se candidatem; França canta marchinha",
     "date": "2018-10-21T23:56:00.000Z",
     "media": false,
-    "retweets": 65,
-    "favorites": 401
+    "retweets": 66,
+    "favorites": 407
   },
   {
     "author": {
@@ -1797,7 +1887,7 @@
     "date": "2018-10-21T23:26:00.000Z",
     "media": "http://pbs.twimg.com/media/DqEJXHOXQAArmFE.jpg",
     "retweets": 25,
-    "favorites": 122
+    "favorites": 123
   },
   {
     "author": {
@@ -1841,8 +1931,8 @@
     "tweet": "PF diz não haver prazo para apurar fake news na campanha presidencial",
     "date": "2018-10-21T22:14:59.000Z",
     "media": false,
-    "retweets": 72,
-    "favorites": 252
+    "retweets": 75,
+    "favorites": 258
   },
   {
     "author": {
@@ -1871,8 +1961,8 @@
     "tweet": "Maduro pede a Trump que abra fronteiras dos Estados Unidos para receber imigrantes",
     "date": "2018-10-21T21:32:36.000Z",
     "media": "http://pbs.twimg.com/media/DqD_hE4X0AA3DXy.jpg",
-    "retweets": 61,
-    "favorites": 264
+    "retweets": 62,
+    "favorites": 265
   },
   {
     "author": {
@@ -1902,7 +1992,7 @@
     "date": "2018-10-21T20:59:07.000Z",
     "media": "http://pbs.twimg.com/media/DqD321cX4AA8iib.jpg",
     "retweets": 73,
-    "favorites": 402
+    "favorites": 409
   },
   {
     "author": {
@@ -1991,8 +2081,8 @@
     "tweet": "Apoiadores de Bolsonaro realizam atos em Brasília e diversas capitais",
     "date": "2018-10-21T19:26:00.000Z",
     "media": "http://pbs.twimg.com/media/DqDdcXKWoAIeUWQ.jpg",
-    "retweets": 409,
-    "favorites": 1612
+    "retweets": 414,
+    "favorites": 1638
   },
   {
     "author": {
@@ -2006,7 +2096,7 @@
     "tweet": "&gt;@EstadaoPolitica Novo presidente terá de iniciar sucessão nas Forças Armadas",
     "date": "2018-10-21T19:10:00.000Z",
     "media": false,
-    "retweets": 13,
+    "retweets": 14,
     "favorites": 69
   },
   {
@@ -2021,8 +2111,8 @@
     "tweet": "VÍDEO: Filho de Bolsonaro afirma que para fechar STF basta 'um soldado e um cabo",
     "date": "2018-10-21T18:56:54.000Z",
     "media": "http://pbs.twimg.com/media/DqDb5BTX0AEUU_7.jpg",
-    "retweets": 294,
-    "favorites": 651
+    "retweets": 298,
+    "favorites": 660
   },
   {
     "author": {
@@ -2051,8 +2141,8 @@
     "tweet": "Bolsonaro quer Sérgio Moro no Supremo, diz presidente do PSL",
     "date": "2018-10-21T18:32:46.000Z",
     "media": "http://pbs.twimg.com/media/DqDWWcfX0AARcMb.jpg",
-    "retweets": 204,
-    "favorites": 1164
+    "retweets": 205,
+    "favorites": 1168
   },
   {
     "author": {
@@ -2066,7 +2156,7 @@
     "tweet": "&gt;@EstadaoEconomia ‘Não existe ambiente para golpe militar’, diz sócio do BR Partners",
     "date": "2018-10-21T18:10:00.000Z",
     "media": false,
-    "retweets": 28,
+    "retweets": 29,
     "favorites": 198
   },
   {
@@ -2112,7 +2202,7 @@
     "date": "2018-10-21T17:15:00.000Z",
     "media": false,
     "retweets": 12,
-    "favorites": 66
+    "favorites": 67
   },
   {
     "author": {
@@ -2142,7 +2232,7 @@
     "date": "2018-10-21T16:45:00.000Z",
     "media": false,
     "retweets": 154,
-    "favorites": 669
+    "favorites": 674
   },
   {
     "author": {
@@ -2161,96 +2251,6 @@
   },
   {
     "author": {
-      "at": "Estadao",
-      "name": "Estadão",
-      "profile": "http://pbs.twimg.com/profile_images/930054894731579392/WGqwI8XJ_normal.jpg",
-      "location": "São Paulo",
-      "verified": true,
-      "color": "336699"
-    },
-    "tweet": "&gt;@EstadaoPaladar Festival de tacos reúne restaurantes de diferentes nacionalidades",
-    "date": "2018-10-21T16:10:00.000Z",
-    "media": "http://pbs.twimg.com/media/DqCh53zWkAEsTL7.jpg",
-    "retweets": 2,
-    "favorites": 21
-  },
-  {
-    "author": {
-      "at": "Estadao",
-      "name": "Estadão",
-      "profile": "http://pbs.twimg.com/profile_images/930054894731579392/WGqwI8XJ_normal.jpg",
-      "location": "São Paulo",
-      "verified": true,
-      "color": "336699"
-    },
-    "tweet": "&gt;@EstadaoEsporte OPINIÃO: 'Quando um gol desses é anulado em nome da justiça, é um desrespeito ao futebol'…",
-    "date": "2018-10-21T15:50:00.000Z",
-    "media": false,
-    "retweets": 19,
-    "favorites": 90
-  },
-  {
-    "author": {
-      "at": "Estadao",
-      "name": "Estadão",
-      "profile": "http://pbs.twimg.com/profile_images/930054894731579392/WGqwI8XJ_normal.jpg",
-      "location": "São Paulo",
-      "verified": true,
-      "color": "336699"
-    },
-    "tweet": "&gt;@EstadaoEconomia Militar aposentado segue com salário que recebia na ativa",
-    "date": "2018-10-21T15:30:00.000Z",
-    "media": false,
-    "retweets": 139,
-    "favorites": 255
-  },
-  {
-    "author": {
-      "at": "Estadao",
-      "name": "Estadão",
-      "profile": "http://pbs.twimg.com/profile_images/930054894731579392/WGqwI8XJ_normal.jpg",
-      "location": "São Paulo",
-      "verified": true,
-      "color": "336699"
-    },
-    "tweet": "&gt;@EstadaoSaoPaulo Mulheres com câncer congelam óvulos por sonho da maternidade",
-    "date": "2018-10-21T15:15:00.000Z",
-    "media": false,
-    "retweets": 5,
-    "favorites": 57
-  },
-  {
-    "author": {
-      "at": "Estadao",
-      "name": "Estadão",
-      "profile": "http://pbs.twimg.com/profile_images/930054894731579392/WGqwI8XJ_normal.jpg",
-      "location": "São Paulo",
-      "verified": true,
-      "color": "336699"
-    },
-    "tweet": "&gt;@EstadaoPolitica ‘O MDB agora está no segundo time’, afirma Marun",
-    "date": "2018-10-21T15:00:01.000Z",
-    "media": false,
-    "retweets": 8,
-    "favorites": 26
-  },
-  {
-    "author": {
-      "at": "Estadao",
-      "name": "Estadão",
-      "profile": "http://pbs.twimg.com/profile_images/930054894731579392/WGqwI8XJ_normal.jpg",
-      "location": "São Paulo",
-      "verified": true,
-      "color": "336699"
-    },
-    "tweet": "&gt;@EstadaoLink Usuários de celular relatam que horário foi adiantado uma hora",
-    "date": "2018-10-21T14:45:00.000Z",
-    "media": "http://pbs.twimg.com/media/DqCWrAvW4AAC7HK.jpg",
-    "retweets": 4,
-    "favorites": 76
-  },
-  {
-    "author": {
       "at": "JornalOGlobo",
       "name": "Jornal O Globo",
       "profile": "http://pbs.twimg.com/profile_images/1000081555690319872/hyNVFJYA_normal.jpg",
@@ -2261,8 +2261,8 @@
     "tweet": "'Juiz algum no Brasil se deixa abalar', diz Rosa Weber sobre vídeo de filho de Bolsonaro.",
     "date": "2018-10-21T22:01:00.000Z",
     "media": "http://pbs.twimg.com/media/DqD5dAxX0AMvLml.jpg",
-    "retweets": 56,
-    "favorites": 269
+    "retweets": 57,
+    "favorites": 273
   },
   {
     "author": {
@@ -2292,7 +2292,7 @@
     "date": "2018-10-21T21:09:00.000Z",
     "media": "http://pbs.twimg.com/media/DqD1xPhWoAAAQnF.jpg",
     "retweets": 46,
-    "favorites": 207
+    "favorites": 209
   },
   {
     "author": {
@@ -2307,7 +2307,7 @@
     "date": "2018-10-21T20:57:37.000Z",
     "media": "http://pbs.twimg.com/media/DqD3i5lWoAEtUTn.jpg",
     "retweets": 11,
-    "favorites": 48
+    "favorites": 49
   },
   {
     "author": {
@@ -2322,7 +2322,7 @@
     "date": "2018-10-21T20:45:03.000Z",
     "media": "http://pbs.twimg.com/media/DqD0qz9XgAYHgqX.jpg",
     "retweets": 64,
-    "favorites": 296
+    "favorites": 297
   },
   {
     "author": {
@@ -2367,7 +2367,7 @@
     "date": "2018-10-21T19:47:00.000Z",
     "media": "http://pbs.twimg.com/media/DqDjADMW4AYzMzq.jpg",
     "retweets": 31,
-    "favorites": 125
+    "favorites": 126
   },
   {
     "author": {
@@ -2441,8 +2441,8 @@
     "tweet": "'Se alguém falou em fechar o STF, precisa de um psiquiatra', diz Bolsonaro sobre vídeo do filho.…",
     "date": "2018-10-21T18:02:53.000Z",
     "media": false,
-    "retweets": 648,
-    "favorites": 2557
+    "retweets": 653,
+    "favorites": 2595
   },
   {
     "author": {
@@ -2456,8 +2456,8 @@
     "tweet": "Haddad e Fernando Henrique reagem a vídeo em que filho de Bolsonaro ataca STF.",
     "date": "2018-10-21T17:43:11.000Z",
     "media": "http://pbs.twimg.com/media/DqDLCqvWsAA-RqZ.jpg",
-    "retweets": 127,
-    "favorites": 400
+    "retweets": 128,
+    "favorites": 405
   },
   {
     "author": {
@@ -2471,8 +2471,8 @@
     "tweet": "Em vídeo, filho de Bolsonaro diz que 'basta um soldado e um cabo para fechar o STF'.",
     "date": "2018-10-21T17:30:42.000Z",
     "media": "http://pbs.twimg.com/media/DqDIL-HXQAIVrf2.jpg",
-    "retweets": 530,
-    "favorites": 970
+    "retweets": 532,
+    "favorites": 976
   },
   {
     "author": {
@@ -2487,7 +2487,7 @@
     "date": "2018-10-21T16:35:00.000Z",
     "media": "http://pbs.twimg.com/media/DqCymggW4AA5ZYY.jpg",
     "retweets": 38,
-    "favorites": 200
+    "favorites": 202
   },
   {
     "author": {
@@ -2592,7 +2592,7 @@
     "date": "2018-10-21T13:48:30.000Z",
     "media": "http://pbs.twimg.com/media/DqCVT5UW4AAlDqs.jpg",
     "retweets": 8,
-    "favorites": 216
+    "favorites": 218
   },
   {
     "author": {
@@ -2622,7 +2622,7 @@
     "date": "2018-10-21T13:10:13.000Z",
     "media": "http://pbs.twimg.com/media/DqCMhOYX0AAgxqc.jpg",
     "retweets": 15,
-    "favorites": 75
+    "favorites": 76
   },
   {
     "author": {
@@ -2951,7 +2951,7 @@
     "tweet": "TSE suspende propaganda do PT que associa Bolsonaro à tortura.",
     "date": "2018-10-20T21:43:59.000Z",
     "media": "http://pbs.twimg.com/media/Dp-4kbpX4AIeQWw.jpg",
-    "retweets": 275,
+    "retweets": 277,
     "favorites": 1187
   },
   {
@@ -2967,7 +2967,7 @@
     "date": "2018-10-20T21:33:04.000Z",
     "media": "http://pbs.twimg.com/media/Dp-2EBGXgAAp0K7.jpg",
     "retweets": 347,
-    "favorites": 1767
+    "favorites": 1768
   },
   {
     "author": {
@@ -3008,11 +3008,56 @@
       "verified": true,
       "color": "91D2FA"
     },
+    "tweet": "K-beauty: por que os cosméticos da Coreia do Sul se tornaram febre mundial",
+    "date": "2018-10-22T09:51:04.000Z",
+    "media": "http://pbs.twimg.com/media/DqGolfLX0AAWyW9.jpg",
+    "retweets": 1,
+    "favorites": 8
+  },
+  {
+    "author": {
+      "at": "bbcbrasil",
+      "name": "BBC News Brasil",
+      "profile": "http://pbs.twimg.com/profile_images/1004666132253507584/gTEhhS7D_normal.jpg",
+      "location": "Londres, GB, e São Paulo, BR",
+      "verified": true,
+      "color": "91D2FA"
+    },
+    "tweet": "#MaisLidas #Eleições2018 Como se proteger da tristeza, da raiva e do medo se seu candidato perder…",
+    "date": "2018-10-22T09:37:26.000Z",
+    "media": false,
+    "retweets": 9,
+    "favorites": 20
+  },
+  {
+    "author": {
+      "at": "bbcbrasil",
+      "name": "BBC News Brasil",
+      "profile": "http://pbs.twimg.com/profile_images/1004666132253507584/gTEhhS7D_normal.jpg",
+      "location": "Londres, GB, e São Paulo, BR",
+      "verified": true,
+      "color": "91D2FA"
+    },
+    "tweet": "#ArquivoBBC Pílulas com efeitos colaterais que 'engordam' são vedidos ilegalmente até em beira de estrada no Sudão…",
+    "date": "2018-10-22T09:17:08.000Z",
+    "media": false,
+    "retweets": 2,
+    "favorites": 11
+  },
+  {
+    "author": {
+      "at": "bbcbrasil",
+      "name": "BBC News Brasil",
+      "profile": "http://pbs.twimg.com/profile_images/1004666132253507584/gTEhhS7D_normal.jpg",
+      "location": "Londres, GB, e São Paulo, BR",
+      "verified": true,
+      "color": "91D2FA"
+    },
     "tweet": "#ArquivoBBC Por que 80% dos casos de enxaqueca não são diagnosticados e como impedir que o problema se torne mais g…",
     "date": "2018-10-22T08:54:53.000Z",
     "media": false,
-    "retweets": 1,
-    "favorites": 3
+    "retweets": 7,
+    "favorites": 21
   },
   {
     "author": {
@@ -3026,8 +3071,8 @@
     "tweet": "A ciência explica como os gestos de políticos e oradores mudam a percepção do público sobre eles…",
     "date": "2018-10-22T08:33:25.000Z",
     "media": false,
-    "retweets": 6,
-    "favorites": 23
+    "retweets": 11,
+    "favorites": 35
   },
   {
     "author": {
@@ -3042,7 +3087,7 @@
     "date": "2018-10-22T08:12:24.000Z",
     "media": "http://pbs.twimg.com/media/DqGSALLXQAAZEmV.jpg",
     "retweets": 1,
-    "favorites": 7
+    "favorites": 15
   },
   {
     "author": {
@@ -3056,8 +3101,8 @@
     "tweet": "Caravana de migrantes: milhares desafiam Trump, entram no México e seguem sua marcha rumo aos EUA…",
     "date": "2018-10-22T07:51:40.000Z",
     "media": false,
-    "retweets": 12,
-    "favorites": 48
+    "retweets": 20,
+    "favorites": 77
   },
   {
     "author": {
@@ -3072,7 +3117,7 @@
     "date": "2018-10-22T07:16:06.000Z",
     "media": false,
     "retweets": 7,
-    "favorites": 12
+    "favorites": 15
   },
   {
     "author": {
@@ -3087,7 +3132,7 @@
     "date": "2018-10-22T06:55:48.000Z",
     "media": "http://pbs.twimg.com/media/DqGAeKAXcAE9Kmr.jpg",
     "retweets": 0,
-    "favorites": 15
+    "favorites": 17
   },
   {
     "author": {
@@ -3101,8 +3146,8 @@
     "tweet": "#MaisLidas Estudo aponta que seleção natural pode ter influenciado aumento da altura média da população da Holanda,…",
     "date": "2018-10-22T06:35:04.000Z",
     "media": false,
-    "retweets": 1,
-    "favorites": 17
+    "retweets": 2,
+    "favorites": 18
   },
   {
     "author": {
@@ -3117,7 +3162,7 @@
     "date": "2018-10-22T06:30:17.000Z",
     "media": false,
     "retweets": 8,
-    "favorites": 34
+    "favorites": 38
   },
   {
     "author": {
@@ -3131,8 +3176,8 @@
     "tweet": "Pouco dinheiro, muito empenho: como Portugal tornou-se uma \"estrela ascendente\" da educação internacional…",
     "date": "2018-10-22T06:08:22.000Z",
     "media": false,
-    "retweets": 14,
-    "favorites": 59
+    "retweets": 17,
+    "favorites": 74
   },
   {
     "author": {
@@ -3147,7 +3192,7 @@
     "date": "2018-10-22T05:47:56.000Z",
     "media": "http://pbs.twimg.com/media/DqFw78LX4AEFet1.jpg",
     "retweets": 0,
-    "favorites": 14
+    "favorites": 16
   },
   {
     "author": {
@@ -3161,8 +3206,8 @@
     "tweet": "#MaisLidas Tristeza, raiva, medo: como se proteger dos sentimentos ruins nestas eleições?",
     "date": "2018-10-22T05:27:20.000Z",
     "media": "http://pbs.twimg.com/media/DqFsOOZX4AAzHkY.jpg",
-    "retweets": 16,
-    "favorites": 40
+    "retweets": 17,
+    "favorites": 45
   },
   {
     "author": {
@@ -3177,7 +3222,7 @@
     "date": "2018-10-22T05:05:07.000Z",
     "media": "http://pbs.twimg.com/media/DqFnIttX0AE2giV.jpg",
     "retweets": 11,
-    "favorites": 26
+    "favorites": 27
   },
   {
     "author": {
@@ -3206,8 +3251,8 @@
     "tweet": "As mensagens falsas usadas no século 16 para tentar sabotar o reinado do espanhol Felipe 2º",
     "date": "2018-10-22T04:49:26.000Z",
     "media": "http://pbs.twimg.com/media/DqFjjBhWkAEKXTG.jpg",
-    "retweets": 17,
-    "favorites": 45
+    "retweets": 18,
+    "favorites": 50
   },
   {
     "author": {
@@ -3237,7 +3282,7 @@
     "date": "2018-10-22T04:15:16.000Z",
     "media": false,
     "retweets": 9,
-    "favorites": 34
+    "favorites": 35
   },
   {
     "author": {
@@ -3251,7 +3296,7 @@
     "tweet": "Tiquira, a aguardente ancestral do Brasil que quer ganhar o mundo",
     "date": "2018-10-22T03:53:08.000Z",
     "media": "http://pbs.twimg.com/media/DqFWqSSXcAEsaT2.jpg",
-    "retweets": 5,
+    "retweets": 7,
     "favorites": 50
   },
   {
@@ -3267,7 +3312,7 @@
     "date": "2018-10-22T03:46:49.000Z",
     "media": "http://pbs.twimg.com/media/DqFVN1YXcAAyOkk.jpg",
     "retweets": 12,
-    "favorites": 84
+    "favorites": 86
   },
   {
     "author": {
@@ -3282,7 +3327,7 @@
     "date": "2018-10-22T03:26:04.000Z",
     "media": "http://pbs.twimg.com/media/DqFQdt_WoAAJeWL.jpg",
     "retweets": 8,
-    "favorites": 30
+    "favorites": 31
   },
   {
     "author": {
@@ -3312,7 +3357,7 @@
     "date": "2018-10-22T02:47:04.000Z",
     "media": "http://pbs.twimg.com/media/DqFHibBWsAAxzaM.jpg",
     "retweets": 7,
-    "favorites": 71
+    "favorites": 73
   },
   {
     "author": {
@@ -3326,7 +3371,7 @@
     "tweet": "Como conservadorismo 'órfão' encontrou em Bolsonaro seu representante",
     "date": "2018-10-22T02:30:10.000Z",
     "media": "http://pbs.twimg.com/media/DqFDq7YWwAA3mL6.jpg",
-    "retweets": 31,
+    "retweets": 33,
     "favorites": 99
   },
   {
@@ -3356,8 +3401,8 @@
     "tweet": "Como Portugal elevou sua educação às melhores do mundo: Pouco dinheiro, muito empenho",
     "date": "2018-10-22T01:48:26.000Z",
     "media": "http://pbs.twimg.com/media/DqE6HlwW4AEFqLh.jpg",
-    "retweets": 102,
-    "favorites": 350
+    "retweets": 111,
+    "favorites": 382
   },
   {
     "author": {
@@ -3416,8 +3461,8 @@
     "tweet": "Como mensagens falsas foram usadas no século 16 para tentar derrubar o rei da Espanha",
     "date": "2018-10-22T00:55:05.000Z",
     "media": "http://pbs.twimg.com/media/DqEt6HzWoAEZitr.jpg",
-    "retweets": 36,
-    "favorites": 135
+    "retweets": 38,
+    "favorites": 136
   },
   {
     "author": {
@@ -3432,7 +3477,7 @@
     "date": "2018-10-22T00:40:06.000Z",
     "media": false,
     "retweets": 38,
-    "favorites": 86
+    "favorites": 87
   },
   {
     "author": {
@@ -3447,7 +3492,7 @@
     "date": "2018-10-22T00:28:08.000Z",
     "media": "http://pbs.twimg.com/media/DqEnvVWXgAUBarB.jpg",
     "retweets": 7,
-    "favorites": 57
+    "favorites": 58
   },
   {
     "author": {
@@ -3462,7 +3507,7 @@
     "date": "2018-10-22T00:21:05.000Z",
     "media": "http://pbs.twimg.com/media/DqEmIA4XcAApjJz.jpg",
     "retweets": 10,
-    "favorites": 44
+    "favorites": 45
   },
   {
     "author": {
@@ -3506,8 +3551,8 @@
     "tweet": "A aguardente artesanal criada por índios no Maranhão que começa a ganhar o Brasil e a vencer prêmios no exterior…",
     "date": "2018-10-21T23:53:02.000Z",
     "media": false,
-    "retweets": 40,
-    "favorites": 197
+    "retweets": 42,
+    "favorites": 203
   },
   {
     "author": {
@@ -3536,7 +3581,7 @@
     "tweet": "Você comeria um hambúrguer de frango feito a partir das células de uma pena de galinha?",
     "date": "2018-10-21T23:33:04.000Z",
     "media": false,
-    "retweets": 9,
+    "retweets": 10,
     "favorites": 48
   },
   {
@@ -3551,8 +3596,8 @@
     "tweet": "Pouco dinheiro, muito empenho: como Portugal tornou-se uma \"estrela ascendente\" da educação internacional…",
     "date": "2018-10-21T23:29:11.000Z",
     "media": false,
-    "retweets": 51,
-    "favorites": 170
+    "retweets": 53,
+    "favorites": 173
   },
   {
     "author": {
@@ -3566,8 +3611,8 @@
     "tweet": "#Eleições2018 O futuro presidente vai indicar dois nomes ao STF, com a aposentadoria, em 2021, dos ministros Marco…",
     "date": "2018-10-21T23:29:11.000Z",
     "media": false,
-    "retweets": 19,
-    "favorites": 60
+    "retweets": 24,
+    "favorites": 73
   },
   {
     "author": {
@@ -3702,52 +3747,97 @@
     "date": "2018-10-21T21:08:40.000Z",
     "media": false,
     "retweets": 114,
-    "favorites": 520
+    "favorites": 522
   },
   {
     "author": {
-      "at": "bbcbrasil",
-      "name": "BBC News Brasil",
-      "profile": "http://pbs.twimg.com/profile_images/1004666132253507584/gTEhhS7D_normal.jpg",
-      "location": "Londres, GB, e São Paulo, BR",
+      "at": "exame",
+      "name": "Exame",
+      "profile": "http://pbs.twimg.com/profile_images/890525951557283840/AkjJ2Ufa_normal.jpg",
+      "location": "São Paulo - Brasil",
       "verified": true,
-      "color": "91D2FA"
+      "color": "7E0000"
     },
-    "tweet": "O poder que os gestos de políticos e oradores têm sobre o público",
-    "date": "2018-10-21T21:04:03.000Z",
-    "media": "http://pbs.twimg.com/media/DqD5B8wWkAAr6_o.jpg",
-    "retweets": 6,
-    "favorites": 21
+    "tweet": "Justiça Eleitoral instaura 2 ações ligadas à campanha de Bolsonaro",
+    "date": "2018-10-22T09:47:02.000Z",
+    "media": false,
+    "retweets": 3,
+    "favorites": 22
   },
   {
     "author": {
-      "at": "bbcbrasil",
-      "name": "BBC News Brasil",
-      "profile": "http://pbs.twimg.com/profile_images/1004666132253507584/gTEhhS7D_normal.jpg",
-      "location": "Londres, GB, e São Paulo, BR",
+      "at": "exame",
+      "name": "Exame",
+      "profile": "http://pbs.twimg.com/profile_images/890525951557283840/AkjJ2Ufa_normal.jpg",
+      "location": "São Paulo - Brasil",
       "verified": true,
-      "color": "91D2FA"
+      "color": "7E0000"
     },
-    "tweet": "#ArquivoBBC Como saber se sua dor de cabeça é, na verdade, enxaqueca crônica",
-    "date": "2018-10-21T21:02:08.000Z",
-    "media": "http://pbs.twimg.com/media/DqD4l06XcAEuhXi.jpg",
+    "tweet": "Marginais vermelhos serão banidos do país, diz Bolsonaro a apoiadores",
+    "date": "2018-10-22T09:38:53.000Z",
+    "media": false,
+    "retweets": 25,
+    "favorites": 95
+  },
+  {
+    "author": {
+      "at": "exame",
+      "name": "Exame",
+      "profile": "http://pbs.twimg.com/profile_images/890525951557283840/AkjJ2Ufa_normal.jpg",
+      "location": "São Paulo - Brasil",
+      "verified": true,
+      "color": "7E0000"
+    },
+    "tweet": "Como será, afinal, o time de governo de Bolsonaro?",
+    "date": "2018-10-22T09:29:04.000Z",
+    "media": false,
     "retweets": 7,
-    "favorites": 20
+    "favorites": 26
   },
   {
     "author": {
-      "at": "bbcbrasil",
-      "name": "BBC News Brasil",
-      "profile": "http://pbs.twimg.com/profile_images/1004666132253507584/gTEhhS7D_normal.jpg",
-      "location": "Londres, GB, e São Paulo, BR",
+      "at": "exame",
+      "name": "Exame",
+      "profile": "http://pbs.twimg.com/profile_images/890525951557283840/AkjJ2Ufa_normal.jpg",
+      "location": "São Paulo - Brasil",
       "verified": true,
-      "color": "91D2FA"
+      "color": "7E0000"
     },
-    "tweet": "As mensagens falsas usadas no século 16 para tentar sabotar o reinado do espanhol Felipe 2º",
-    "date": "2018-10-21T20:54:06.000Z",
-    "media": "http://pbs.twimg.com/media/DqD2wNtW4AA7YVf.jpg",
-    "retweets": 28,
-    "favorites": 90
+    "tweet": "Nordeste, WhatsApp e nenhum debate: a semana final",
+    "date": "2018-10-22T09:19:11.000Z",
+    "media": false,
+    "retweets": 5,
+    "favorites": 26
+  },
+  {
+    "author": {
+      "at": "exame",
+      "name": "Exame",
+      "profile": "http://pbs.twimg.com/profile_images/890525951557283840/AkjJ2Ufa_normal.jpg",
+      "location": "São Paulo - Brasil",
+      "verified": true,
+      "color": "7E0000"
+    },
+    "tweet": "Brasileira cria fundos para startups de biotecnologia e blockchain no Vale",
+    "date": "2018-10-22T09:00:33.000Z",
+    "media": false,
+    "retweets": 4,
+    "favorites": 23
+  },
+  {
+    "author": {
+      "at": "exame",
+      "name": "Exame",
+      "profile": "http://pbs.twimg.com/profile_images/890525951557283840/AkjJ2Ufa_normal.jpg",
+      "location": "São Paulo - Brasil",
+      "verified": true,
+      "color": "7E0000"
+    },
+    "tweet": "Votorantim, Bayer, Roche e mais 41 empresas recrutam jovens talentos",
+    "date": "2018-10-22T09:00:29.000Z",
+    "media": false,
+    "retweets": 11,
+    "favorites": 23
   },
   {
     "author": {
@@ -3761,8 +3851,8 @@
     "tweet": "Nova tecnologia permitirá criação de peças de metal por impressão 3D",
     "date": "2018-10-22T08:55:54.000Z",
     "media": false,
-    "retweets": 0,
-    "favorites": 7
+    "retweets": 3,
+    "favorites": 18
   },
   {
     "author": {
@@ -3777,7 +3867,7 @@
     "date": "2018-10-22T08:01:00.000Z",
     "media": false,
     "retweets": 1,
-    "favorites": 6
+    "favorites": 9
   },
   {
     "author": {
@@ -3792,7 +3882,7 @@
     "date": "2018-10-21T20:53:04.000Z",
     "media": false,
     "retweets": 9,
-    "favorites": 68
+    "favorites": 69
   },
   {
     "author": {
@@ -3806,8 +3896,8 @@
     "tweet": "Bolsonaro consegue apoio robusto nas ruas antes do segundo turno",
     "date": "2018-10-21T20:12:01.000Z",
     "media": false,
-    "retweets": 902,
-    "favorites": 3071
+    "retweets": 936,
+    "favorites": 3160
   },
   {
     "author": {
@@ -3942,7 +4032,7 @@
     "date": "2018-10-21T18:34:46.000Z",
     "media": false,
     "retweets": 98,
-    "favorites": 406
+    "favorites": 407
   },
   {
     "author": {
@@ -4046,8 +4136,8 @@
     "tweet": "Centenas de milhares vão às ruas para pedir novo referendo do Brexit",
     "date": "2018-10-21T14:43:33.000Z",
     "media": false,
-    "retweets": 7,
-    "favorites": 34
+    "retweets": 8,
+    "favorites": 35
   },
   {
     "author": {
@@ -4122,7 +4212,7 @@
     "date": "2018-10-21T13:32:55.000Z",
     "media": false,
     "retweets": 30,
-    "favorites": 206
+    "favorites": 207
   },
   {
     "author": {
@@ -4181,8 +4271,8 @@
     "tweet": "Eleitores vão decidir entre um miliciano e um professor, diz Haddad",
     "date": "2018-10-21T13:20:45.000Z",
     "media": false,
-    "retweets": 668,
-    "favorites": 2204
+    "retweets": 681,
+    "favorites": 2241
   },
   {
     "author": {
@@ -4211,8 +4301,8 @@
     "tweet": "Brasileiros e uruguaios fazem protesto de “repúdio” contra Bolsonaro",
     "date": "2018-10-21T13:11:10.000Z",
     "media": false,
-    "retweets": 60,
-    "favorites": 273
+    "retweets": 62,
+    "favorites": 276
   },
   {
     "author": {
@@ -4286,7 +4376,7 @@
     "tweet": "Simpatia é chave para lidar com humanos, diz criador de robô com cidadania",
     "date": "2018-10-21T12:28:13.000Z",
     "media": false,
-    "retweets": 7,
+    "retweets": 8,
     "favorites": 30
   },
   {
@@ -4411,96 +4501,6 @@
   },
   {
     "author": {
-      "at": "exame",
-      "name": "Exame",
-      "profile": "http://pbs.twimg.com/profile_images/890525951557283840/AkjJ2Ufa_normal.jpg",
-      "location": "São Paulo - Brasil",
-      "verified": true,
-      "color": "7E0000"
-    },
-    "tweet": "Novo museu do holocausto é acusado de acobertar papel da Hungria na guerra",
-    "date": "2018-10-21T09:00:33.000Z",
-    "media": false,
-    "retweets": 0,
-    "favorites": 11
-  },
-  {
-    "author": {
-      "at": "exame",
-      "name": "Exame",
-      "profile": "http://pbs.twimg.com/profile_images/890525951557283840/AkjJ2Ufa_normal.jpg",
-      "location": "São Paulo - Brasil",
-      "verified": true,
-      "color": "7E0000"
-    },
-    "tweet": "O que propõem Haddad e Bolsonaro para a Saúde, maior preocupação nacional",
-    "date": "2018-10-21T09:00:29.000Z",
-    "media": false,
-    "retweets": 4,
-    "favorites": 17
-  },
-  {
-    "author": {
-      "at": "exame",
-      "name": "Exame",
-      "profile": "http://pbs.twimg.com/profile_images/890525951557283840/AkjJ2Ufa_normal.jpg",
-      "location": "São Paulo - Brasil",
-      "verified": true,
-      "color": "7E0000"
-    },
-    "tweet": "Maior organismo vivo da Terra está desaparecendo",
-    "date": "2018-10-21T08:55:59.000Z",
-    "media": false,
-    "retweets": 6,
-    "favorites": 13
-  },
-  {
-    "author": {
-      "at": "exame",
-      "name": "Exame",
-      "profile": "http://pbs.twimg.com/profile_images/890525951557283840/AkjJ2Ufa_normal.jpg",
-      "location": "São Paulo - Brasil",
-      "verified": true,
-      "color": "7E0000"
-    },
-    "tweet": "Com música gospel e sertaneja, Deezer quer se manter como força no Brasil",
-    "date": "2018-10-21T08:55:50.000Z",
-    "media": false,
-    "retweets": 0,
-    "favorites": 6
-  },
-  {
-    "author": {
-      "at": "exame",
-      "name": "Exame",
-      "profile": "http://pbs.twimg.com/profile_images/890525951557283840/AkjJ2Ufa_normal.jpg",
-      "location": "São Paulo - Brasil",
-      "verified": true,
-      "color": "7E0000"
-    },
-    "tweet": "Trump diz não estar satisfeito com posição saudita de morte de Khashoggi",
-    "date": "2018-10-20T20:52:20.000Z",
-    "media": false,
-    "retweets": 5,
-    "favorites": 52
-  },
-  {
-    "author": {
-      "at": "exame",
-      "name": "Exame",
-      "profile": "http://pbs.twimg.com/profile_images/890525951557283840/AkjJ2Ufa_normal.jpg",
-      "location": "São Paulo - Brasil",
-      "verified": true,
-      "color": "7E0000"
-    },
-    "tweet": "]Mulheres fazem ato pelo país contra Bolsonaro e pela democracia",
-    "date": "2018-10-20T20:34:37.000Z",
-    "media": false,
-    "retweets": 70,
-    "favorites": 378
-  },
-  {
-    "author": {
       "at": "VEJA",
       "name": "VEJA",
       "profile": "http://pbs.twimg.com/profile_images/917519101349761024/H357BvLS_normal.jpg",
@@ -4511,8 +4511,8 @@
     "tweet": "Ela sim: Shakira faz SP esquecer problemas do país em show banhado de hits",
     "date": "2018-10-22T03:55:51.000Z",
     "media": false,
-    "retweets": 15,
-    "favorites": 165
+    "retweets": 17,
+    "favorites": 184
   },
   {
     "author": {
@@ -4526,8 +4526,8 @@
     "tweet": "“Esses marginais vermelhos serão banidos de nossa pátria”, diz Bolsonaro",
     "date": "2018-10-22T01:18:21.000Z",
     "media": false,
-    "retweets": 665,
-    "favorites": 3065
+    "retweets": 730,
+    "favorites": 3399
   },
   {
     "author": {
@@ -4541,8 +4541,8 @@
     "tweet": "Ministro da Cultura bate boca com Roger Waters por causa de Bolsonaro",
     "date": "2018-10-21T23:38:39.000Z",
     "media": false,
-    "retweets": 104,
-    "favorites": 459
+    "retweets": 107,
+    "favorites": 465
   },
   {
     "author": {
@@ -4616,8 +4616,8 @@
     "tweet": "Após vídeo, Eduardo Bolsonaro diz que “nunca” defendeu fechamento do STF",
     "date": "2018-10-21T21:28:17.000Z",
     "media": false,
-    "retweets": 57,
-    "favorites": 394
+    "retweets": 58,
+    "favorites": 402
   },
   {
     "author": {
@@ -4646,8 +4646,8 @@
     "tweet": "Rosa Weber: fake news são problema mundial contra o qual não há ‘milagre’",
     "date": "2018-10-21T21:04:03.000Z",
     "media": false,
-    "retweets": 86,
-    "favorites": 489
+    "retweets": 87,
+    "favorites": 492
   },
   {
     "author": {
@@ -4752,7 +4752,7 @@
     "date": "2018-10-21T19:52:38.000Z",
     "media": false,
     "retweets": 57,
-    "favorites": 322
+    "favorites": 323
   },
   {
     "author": {
@@ -4766,8 +4766,8 @@
     "tweet": "“Cheira a fascismo”, diz FHC sobre fala de filho de Bolsonaro contra STF",
     "date": "2018-10-21T17:50:24.000Z",
     "media": false,
-    "retweets": 226,
-    "favorites": 761
+    "retweets": 228,
+    "favorites": 769
   },
   {
     "author": {
@@ -4781,8 +4781,8 @@
     "tweet": "O domingo de atos pró-Bolsonaro em todo o país",
     "date": "2018-10-21T17:04:16.000Z",
     "media": false,
-    "retweets": 604,
-    "favorites": 1921
+    "retweets": 616,
+    "favorites": 1949
   },
   {
     "author": {
@@ -4796,8 +4796,8 @@
     "tweet": "Haddad promete congelar gás de cozinha e subir Bolsa Família",
     "date": "2018-10-21T17:01:42.000Z",
     "media": false,
-    "retweets": 200,
-    "favorites": 914
+    "retweets": 202,
+    "favorites": 926
   },
   {
     "author": {
@@ -4842,7 +4842,7 @@
     "date": "2018-10-21T13:31:49.000Z",
     "media": false,
     "retweets": 15,
-    "favorites": 132
+    "favorites": 133
   },
   {
     "author": {
@@ -4872,7 +4872,7 @@
     "date": "2018-10-21T00:45:21.000Z",
     "media": false,
     "retweets": 10,
-    "favorites": 184
+    "favorites": 185
   },
   {
     "author": {
@@ -4901,8 +4901,8 @@
     "tweet": "Milhares de pessoas vão às ruas em novos protestos contra Bolsonaro",
     "date": "2018-10-20T23:07:38.000Z",
     "media": false,
-    "retweets": 460,
-    "favorites": 1669
+    "retweets": 463,
+    "favorites": 1678
   },
   {
     "author": {
@@ -5261,8 +5261,8 @@
     "tweet": "Por que evangélicas pobres rejeitam Bolsonaro e gostam do Lula",
     "date": "2018-10-21T23:08:00.000Z",
     "media": false,
-    "retweets": 205,
-    "favorites": 551
+    "retweets": 210,
+    "favorites": 566
   },
   {
     "author": {
@@ -5277,7 +5277,7 @@
     "date": "2018-10-21T22:30:05.000Z",
     "media": false,
     "retweets": 169,
-    "favorites": 406
+    "favorites": 408
   },
   {
     "author": {
@@ -5306,8 +5306,8 @@
     "tweet": "Em coletiva nesta tarde, @TSEjusbr afirmou que fez o possível para combater as fake news. Lembramos que o Conselho…",
     "date": "2018-10-21T20:00:17.000Z",
     "media": false,
-    "retweets": 330,
-    "favorites": 718
+    "retweets": 335,
+    "favorites": 727
   },
   {
     "author": {
@@ -5337,7 +5337,7 @@
     "date": "2018-10-21T19:42:24.000Z",
     "media": false,
     "retweets": 25,
-    "favorites": 89
+    "favorites": 91
   },
   {
     "author": {
@@ -5411,8 +5411,8 @@
     "tweet": "Será que o judiciário brasileiro agirá no caso #LavaZap com a mesma pressa que agiu para tirar Lula do pleito? Terã…",
     "date": "2018-10-21T19:02:00.000Z",
     "media": false,
-    "retweets": 188,
-    "favorites": 417
+    "retweets": 191,
+    "favorites": 423
   },
   {
     "author": {
@@ -5577,7 +5577,7 @@
     "date": "2018-10-21T18:11:46.000Z",
     "media": false,
     "retweets": 25,
-    "favorites": 82
+    "favorites": 83
   },
   {
     "author": {
@@ -5817,7 +5817,7 @@
     "date": "2018-10-21T15:01:00.000Z",
     "media": false,
     "retweets": 57,
-    "favorites": 130
+    "favorites": 131
   },
   {
     "author": {
@@ -5831,8 +5831,8 @@
     "tweet": "Se nenhum fato novo mudar o panorama eleitoral até o dia 27, em 2019 @jairbolsonaro vestirá a faixa presidencial e…",
     "date": "2018-10-21T13:40:31.000Z",
     "media": false,
-    "retweets": 405,
-    "favorites": 992
+    "retweets": 407,
+    "favorites": 998
   },
   {
     "author": {
@@ -5846,7 +5846,7 @@
     "tweet": "RT @abraji: A Abraji repudia a exposição indevida do telefone do repórter pelo empresário Luciano Hang. Ações como esta comprometem a liber…",
     "date": "2018-10-21T02:03:35.000Z",
     "media": false,
-    "retweets": 801,
+    "retweets": 803,
     "favorites": 0
   },
   {
@@ -5877,7 +5877,7 @@
     "date": "2018-10-20T22:04:52.000Z",
     "media": false,
     "retweets": 464,
-    "favorites": 921
+    "favorites": 924
   },
   {
     "author": {
@@ -5906,8 +5906,8 @@
     "tweet": "A ditadura que @jairbolsonaro apoia é essa que colocou Luiz Eduardo Merlino no pau de arara. Quem a defende tem as…",
     "date": "2018-10-20T18:16:00.000Z",
     "media": false,
-    "retweets": 473,
-    "favorites": 1012
+    "retweets": 474,
+    "favorites": 1013
   },
   {
     "author": {
@@ -5921,8 +5921,8 @@
     "tweet": "VÍDEO: Antes de votar no dia 28 de outubro, entenda \"o Mito\" ouvindo suas próprias palavras.…",
     "date": "2018-10-20T15:29:00.000Z",
     "media": false,
-    "retweets": 672,
-    "favorites": 914
+    "retweets": 673,
+    "favorites": 916
   },
   {
     "author": {
@@ -6042,7 +6042,7 @@
     "date": "2018-10-21T23:29:07.000Z",
     "media": false,
     "retweets": 3,
-    "favorites": 9
+    "favorites": 10
   },
   {
     "author": {
@@ -6086,8 +6086,8 @@
     "tweet": "“Vocês estão salvando o nosso Brasil”, disse @jairbolsonaro em transmissão ao vivo aos manifestantes presentes no…",
     "date": "2018-10-21T19:32:41.000Z",
     "media": false,
-    "retweets": 243,
-    "favorites": 911
+    "retweets": 249,
+    "favorites": 937
   },
   {
     "author": {
@@ -6131,8 +6131,8 @@
     "tweet": "Quando as emoções submergem para as profundezas, a razão se torna um ruído distante, inaudível.",
     "date": "2018-10-21T13:29:01.000Z",
     "media": false,
-    "retweets": 9,
-    "favorites": 32
+    "retweets": 10,
+    "favorites": 33
   },
   {
     "author": {
@@ -6758,11 +6758,41 @@
       "verified": true,
       "color": "000000"
     },
+    "tweet": "Com quase 20 anos de skate nas costas, esses tiozinhos tem prioridade na pista.",
+    "date": "2018-10-22T10:00:01.000Z",
+    "media": false,
+    "retweets": 0,
+    "favorites": 2
+  },
+  {
+    "author": {
+      "at": "VICEBRASIL",
+      "name": "VICE BRASIL",
+      "profile": "http://pbs.twimg.com/profile_images/672022018146082816/RcYi8NvS_normal.jpg",
+      "location": "São Paulo, Brasil",
+      "verified": true,
+      "color": "000000"
+    },
+    "tweet": "Foi ainda criança que Luiza começou a fazer os primeiros rabiscos. Mas, depois de enfrentar o mundo enquanto mulher…",
+    "date": "2018-10-22T09:00:00.000Z",
+    "media": false,
+    "retweets": 3,
+    "favorites": 15
+  },
+  {
+    "author": {
+      "at": "VICEBRASIL",
+      "name": "VICE BRASIL",
+      "profile": "http://pbs.twimg.com/profile_images/672022018146082816/RcYi8NvS_normal.jpg",
+      "location": "São Paulo, Brasil",
+      "verified": true,
+      "color": "000000"
+    },
     "tweet": "A fotógrafa russa Katya Rezvaya retrata as práticas do terapeuta Dr. Andrei Gnezdilov, especializado nos valores te…",
     "date": "2018-10-22T08:00:00.000Z",
     "media": false,
     "retweets": 2,
-    "favorites": 6
+    "favorites": 8
   },
   {
     "author": {
@@ -6776,8 +6806,8 @@
     "tweet": "Assim como Bolsonaro, Duterte se elegeu as custas de um discurso violento e saudosista da ditadura. Fenômenos que n…",
     "date": "2018-10-22T02:00:01.000Z",
     "media": false,
-    "retweets": 39,
-    "favorites": 73
+    "retweets": 48,
+    "favorites": 88
   },
   {
     "author": {
@@ -6792,7 +6822,7 @@
     "date": "2018-10-22T01:00:00.000Z",
     "media": false,
     "retweets": 11,
-    "favorites": 30
+    "favorites": 31
   },
   {
     "author": {
@@ -6867,7 +6897,7 @@
     "date": "2018-10-21T19:20:00.000Z",
     "media": false,
     "retweets": 8,
-    "favorites": 39
+    "favorites": 40
   },
   {
     "author": {
@@ -6897,7 +6927,7 @@
     "date": "2018-10-21T18:00:01.000Z",
     "media": false,
     "retweets": 26,
-    "favorites": 56
+    "favorites": 57
   },
   {
     "author": {
@@ -7471,36 +7501,6 @@
   },
   {
     "author": {
-      "at": "VICEBRASIL",
-      "name": "VICE BRASIL",
-      "profile": "http://pbs.twimg.com/profile_images/672022018146082816/RcYi8NvS_normal.jpg",
-      "location": "São Paulo, Brasil",
-      "verified": true,
-      "color": "000000"
-    },
-    "tweet": "Só que Bolsonaro, deputado federal por 29 anos, e Duterte, prefeito durante 21 anos, construíram carreira no própri…",
-    "date": "2018-10-19T21:15:30.000Z",
-    "media": false,
-    "retweets": 25,
-    "favorites": 67
-  },
-  {
-    "author": {
-      "at": "VICEBRASIL",
-      "name": "VICE BRASIL",
-      "profile": "http://pbs.twimg.com/profile_images/672022018146082816/RcYi8NvS_normal.jpg",
-      "location": "São Paulo, Brasil",
-      "verified": true,
-      "color": "000000"
-    },
-    "tweet": "Do ponto de vista político, é o populismo de direita que liga Bolsonaro, Duterte, Trump, e outros nomes na Europa e…",
-    "date": "2018-10-19T21:13:48.000Z",
-    "media": false,
-    "retweets": 20,
-    "favorites": 62
-  },
-  {
-    "author": {
       "at": "Todays_Kitten",
       "name": "Todays Kitten",
       "profile": "http://pbs.twimg.com/profile_images/885509846564470786/y8lrFEKT_normal.jpg",
@@ -7512,7 +7512,7 @@
     "date": "2018-10-22T06:12:13.000Z",
     "media": "http://pbs.twimg.com/media/DqF2flWX4AAJf0G.jpg",
     "retweets": 1,
-    "favorites": 10
+    "favorites": 11
   },
   {
     "author": {
@@ -7527,7 +7527,7 @@
     "date": "2018-10-22T04:10:15.000Z",
     "media": "http://pbs.twimg.com/media/DqFalJIWsAAABKe.jpg",
     "retweets": 2,
-    "favorites": 25
+    "favorites": 27
   },
   {
     "author": {
@@ -7587,7 +7587,7 @@
     "date": "2018-10-21T18:00:51.000Z",
     "media": "http://pbs.twimg.com/media/DqDPGMhX0AE2g61.jpg",
     "retweets": 11,
-    "favorites": 71
+    "favorites": 73
   },
   {
     "author": {
@@ -7602,7 +7602,7 @@
     "date": "2018-10-21T13:56:09.000Z",
     "media": "http://pbs.twimg.com/media/DqCXFukWkAA3VVH.jpg",
     "retweets": 1,
-    "favorites": 17
+    "favorites": 18
   },
   {
     "author": {
@@ -8397,7 +8397,7 @@
     "date": "2018-10-20T06:16:17.000Z",
     "media": "http://pbs.twimg.com/media/Dp7kPs0WkAA14eK.jpg",
     "retweets": 6,
-    "favorites": 31
+    "favorites": 30
   },
   {
     "author": {
