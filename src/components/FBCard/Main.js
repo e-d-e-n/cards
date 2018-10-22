@@ -1,4 +1,5 @@
 const React = require('react')
+const he = require('he')
 
 const tweetStyle = {
 	fontSize: '0.875rem',
@@ -16,10 +17,12 @@ const imgStyle = {
 
 const hashStyle = {color: '#365899', fontStyle: 'normal', fontWeight: 500}
 
-const parse = string => string.replace(/&gt;/g, '').split(/ +/g).reduce((elements, word) => {
-	const spaced = ` ${word} `
+const parse = (string) => string.replace(/^&gt;\s*/g, '').split(/ +/g).reduce((elements, word) => {
+	const spaced = ` ${he.decode(word)} `
 	elements.push(
-		['#', '@'].includes(word[0]) ? <em style={hashStyle}> {spaced} </em> : spaced
+		!['#', '@'].includes(word[0])
+		? spaced
+		: <em style={hashStyle}>{spaced}</em>
 	)
 	return elements
 }, [])

@@ -1,4 +1,5 @@
 const React = require('react')
+const he = require('he')
 
 const containerStyle = {
 	width: '16rem',
@@ -42,8 +43,8 @@ const sources = [
 
 const hashStyle = color => ({color: `#${color}`, fontStyle: 'normal', fontWeight: 500})
 
-const parse = (string, color) => string.replace(/&gt;/g, '').split(/ +/g).reduce((elements, word) => {
-	const spaced = ` ${word} `
+const parse = (string, color) => string.replace(/^&gt;\s*/g, '').split(/ +/g).reduce((elements, word) => {
+	const spaced = ` ${he.decode(word)} `
 	elements.push(
 		!['#', '@'].includes(word[0])
 		? spaced
