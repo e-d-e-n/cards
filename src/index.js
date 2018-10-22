@@ -2,9 +2,9 @@ import React from 'react'
 import ReactDOM from 'react-dom'
 const profiles = require('./profiles-test.json')
 const tweets = require('./tweets-test.json')
-const DarkCard = require('./DarkCard/index')
-const LightCard = require('./LightCard/index')
-const FBCard = require('./FBCard/index')
+const DarkCard = require('./components/DarkCard/index')
+const LightCard = require('./components/LightCard/index')
+const FBCard = require('./components/FBCard/index')
 
 const wrapperStyle = {
 	display: 'flex',

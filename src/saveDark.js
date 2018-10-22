@@ -1,7 +1,7 @@
 const fs = require('fs')
 const crypto = require('crypto')
 const repng = require('repng')
-const Component = require('./DarkCard/index')
+const Component = require('./components/DarkCard/index')
 const Parallel = require('async-parallel')
 const data = require('../public/profiles/data-test.json')
 

@@ -1,7 +1,7 @@
 const fs = require('fs')
 const crypto = require('crypto')
 const repng = require('repng')
-const Component = require('./FBCard/index')
+const Component = require('./components/FBCard/index')
 const Parallel = require('async-parallel')
 const data = require('../public/media/tweets-test.json')
 
