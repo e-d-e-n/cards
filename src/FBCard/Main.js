@@ -11,6 +11,7 @@ const imgStyle = {
 	objectFit: 'cover',
 	display: 'block',
 	marginTop: '0.5rem',
+	maxHeight: '10rem',
 }
 
 const hashStyle = {color: '#365899', fontStyle: 'normal', fontWeight: 500}

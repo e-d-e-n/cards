@@ -61,7 +61,7 @@ module.exports = ({author, tweet, date, color, media, retweets, favorites}) => (
 				<img alt={author.name} src={mediaImage(author)} style={{width: '100%', display: 'block'}}/>
 			)}
 			{!!media && (
-				<img alt={media} src={media} style={{width: '100%', display: 'block'}}/>
+				<img alt={media} src={media} style={{width: '100%', display: 'block', maxHeight: '10rem', objectFit: 'cover'}}/>
 			)}
 			{!!tweet && (
 				<div style={textStyle}>

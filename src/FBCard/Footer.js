@@ -36,7 +36,7 @@ module.exports = ({retweets, favorites}) => (
 		<div style={reactionsStyle}>
 			<div style={{marginLeft: '0.375rem'}}>{magic(favorites)}</div>
 			{shuffle(reactions).concat('like').map(reaction => (
-				<div style={reactionStyle}>
+				<div key={reaction} style={reactionStyle}>
 					<img
 						alt={reaction}
 						src={`http://localhost:5000/reactions/${reaction}.png`}
