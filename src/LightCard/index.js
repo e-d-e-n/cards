@@ -23,26 +23,49 @@ const wrapperStyle = {
 }
 
 const textStyle = {
-	padding: '1.125rem',
+	padding: '1rem 1.125rem 1.125rem',
 }
 
 
-module.exports = ({
-	media = "catly",
-	text = "Donec ullamcorper nulla non metus auctor fringilla. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum.",
-	image = 'https://valevets.com/wp-content/uploads/2014/08/kitten1.jpg',
-}) => (
+const sources = [
+	'folha',
+	'g1',
+	'estadao',
+	'jornaloglobo',
+	'bbcbrasil',
+	'exame',
+	'veja',
+	'theinterceptbr',
+	'huffpostbrasil',
+	'vicebrasil',
+]
+
+const hashStyle = color => ({color: `#${color}`, fontStyle: 'normal', fontWeight: 500})
+
+const parse = (string, color) => string.split(/ +/g).reduce((elements, word) => {
+	const spaced = ` ${word} `
+	elements.push(
+		!['#', '@'].includes(word[0])
+		? spaced
+		: <em style={hashStyle(color)}>{spaced}</em>
+	)
+	return elements
+}, [])
+
+const mediaImage = author => `http://localhost:5000/media/${sources.includes(author.at.toLowerCase()) ? author.at : 'catly'}.svg`
+
+module.exports = ({author, tweet, date, color, media, retweets, favorites}) => (
 	<div style={containerStyle}>
 		<div style={wrapperStyle}>
+			{!!author && (
+				<img alt={author.name} src={mediaImage(author)} style={{width: '100%', display: 'block'}}/>
+			)}
 			{!!media && (
-				<img alt={media} src={`http://localhost:5000/media/${media}.svg`} style={{width: '100%', display: 'block'}}/>
+				<img alt={media} src={media} style={{width: '100%', display: 'block'}}/>
 			)}
-			{!!image && (
-				<img alt={media} src={image} style={{width: '100%', display: 'block'}}/>
-			)}
-			{!!text && (
+			{!!tweet && (
 				<div style={textStyle}>
-					{text}
+					{parse(tweet, author.color)}
 				</div>
 			)}
 		</div>
