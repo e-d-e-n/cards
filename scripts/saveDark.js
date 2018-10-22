@@ -1,9 +1,9 @@
 const fs = require('fs')
 const crypto = require('crypto')
 const repng = require('repng')
-const Component = require('./components/FBCard/index')
+const Component = require('../src/components/DarkCard/index')
 const Parallel = require('async-parallel')
-const data = require('../public/media/tweets-test.json')
+const data = require('../public/profiles/data.json')
 
 const options = {
 	props: {title: 'hello'},
@@ -11,7 +11,7 @@ const options = {
 	height: 512,
 }
 
-const createFileName = obj => 'output/light' + crypto
+const createFileName = obj => 'output/' + crypto
 	.createHash('md5')
 	.update(JSON.stringify(obj))
 	.digest('hex') + '.png'
