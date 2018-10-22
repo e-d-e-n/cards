@@ -1,8 +1,8 @@
 import React from 'react'
 import ReactDOM from 'react-dom'
 const profiles = require('./profiles-test.json')
-const DarkCard = require('./DarkCard')
-const LightCard = require('./LightCard')
+const DarkCard = require('./DarkCard/index')
+const LightCard = require('./LightCard/index')
 
 const wrapperStyle = {
 	display: 'flex',
