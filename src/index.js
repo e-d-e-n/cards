@@ -15,7 +15,7 @@ const wrapperStyle = {
 ReactDOM.render(
 	<div style={wrapperStyle}>
 		<DarkCard {...profiles[Math.floor(Math.random()*profiles.length)]}/>
-		<LightCard {...profiles[Math.floor(Math.random()*profiles.length)]}/>
+		<LightCard/>
 	</div>,
 	document.getElementById('root')
 )

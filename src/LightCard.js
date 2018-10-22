@@ -27,9 +27,6 @@ const textStyle = {
 }
 
 
-const leftPad = n => (''+n).length !== 2 ? '0'+n : n
-const mapPath = () => `http://localhost:5000/maps/${leftPad(Math.floor(Math.random() * 31))}.png`
-
 module.exports = ({
 	media = "catly",
 	text = "Donec ullamcorper nulla non metus auctor fringilla. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum.",
