@@ -35,10 +35,10 @@ module.exports = ({
 	<div style={containerStyle}>
 		<div style={wrapperStyle}>
 			{!!media && (
-				<img src={`http://localhost:5000/media/${media}.svg`} style={{width: '100%', display: 'block'}}/>
+				<img alt={media} src={`http://localhost:5000/media/${media}.svg`} style={{width: '100%', display: 'block'}}/>
 			)}
 			{!!image && (
-				<img src={image} style={{width: '100%', display: 'block'}}/>
+				<img alt={media} src={image} style={{width: '100%', display: 'block'}}/>
 			)}
 			{!!text && (
 				<div style={textStyle}>

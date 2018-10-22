@@ -79,7 +79,7 @@ module.exports = ({src = "29683503_1619938971408545_8331702238720023048_n.jpg", 
 		<div style={wrapperStyle}>
 			<div style={headerStyle}>
 				<div style={avatarStyle}>
-					<img src={`http://localhost:5000/profiles/files/${src}`} style={{width: '100%', display: 'block'}}/>
+					<img alt={name} src={`http://localhost:5000/profiles/files/${src}`} style={{width: '100%', display: 'block'}}/>
 				</div>
 				<div style={rightStyle}>
 					<div style={nameStyle}>{name}</div>
@@ -88,6 +88,7 @@ module.exports = ({src = "29683503_1619938971408545_8331702238720023048_n.jpg", 
 			</div>
 			<div style={mapStyle}>
 				<img
+					alt={name}
 					src={mapPath()}
 					style={{width: '100%', display: 'block', mixBlendMode: 'screen'}}
 				/>
