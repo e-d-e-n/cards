@@ -11,7 +11,7 @@ const options = {
 	height: 512,
 }
 
-const createFileName = obj => 'output/' + crypto
+const createFileName = obj => 'output/dark/' + crypto
 	.createHash('md5')
 	.update(JSON.stringify(obj))
 	.digest('hex') + '.png'

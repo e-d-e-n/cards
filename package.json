@@ -15,7 +15,10 @@
   "scripts": {
     "media": "serve public",
     "dev": "npm run media & react-scripts start",
-    "build": "npm run media & node src/save.js"
+    "tweets": "node scripts/getTweets.js",
+    "dark": "npm run media & node scripts/saveDark.js",
+    "light": "npm run tweets && npm run media & node scripts/saveLight.js",
+    "fb": "npm run tweets && npm run media & node scripts/saveFB.js"
   },
   "eslintConfig": {
     "extends": "react-app"
