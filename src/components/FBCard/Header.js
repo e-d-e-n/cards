@@ -54,7 +54,6 @@ const parseDate = string => {
 const formatDate = string => parseDate(string).replace(/^\d{2}(\d+)-(\d+)-(\d+)T.+/, '$3/$2/$1')
 const formatTime = string => parseDate(string).replace(/^.+T(\d+):(\d+).+/, '$1:$2')
 
-new Date()
 module.exports = ({author, date}) => (
 	<div style={headerStyle}>
 		{author.profile && (
