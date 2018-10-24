@@ -6,9 +6,9 @@ const Parallel = require('async-parallel')
 const data = require('../public/media/data.json')
 
 const options = {
-	props: {title: 'hello'},
-	width: 256,
-	height: 512,
+	width: 512,
+	height: 1024,
+	css: 'html {font-size: 32px}',
 }
 
 const createFileName = obj => 'output/fb/' + crypto
