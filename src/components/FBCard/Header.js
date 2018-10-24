@@ -40,9 +40,16 @@ const imgStyle = {
 	display: 'block',
 }
 
-const formatDate = string => new Date(string).toLocaleDateString('pt-BR', {day: '2-digit', month: '2-digit', year: '2-digit'})
-const formatTime = string => new Date(string).toLocaleTimeString('en-US', {hour: '2-digit', minute:'2-digit'})
+const parseDate = string => {
+	const date = new Date(string)
+	date.setUTCHours(date.getHours())
+	return date.toISOString()
+}
 
+const formatDate = string => parseDate(string).replace(/^\d{2}(\d+)-(\d+)-(\d+)T.+/, '$3/$2/$1')
+const formatTime = string => parseDate(string).replace(/^.+T(\d+):(\d+).+/, '$1:$2')
+
+new Date()
 module.exports = ({author, date}) => (
 	<div style={headerStyle}>
 		{author.profile && (

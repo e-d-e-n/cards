@@ -61,7 +61,13 @@ const parse = (string, color) => string.replace(/^&gt;\s*/g, '').split(/ +/g).re
 
 const mediaImage = author => `http://localhost:5000/media/${sources.includes(author.at.toLowerCase()) ? author.at : 'catly'}.svg`
 
-const formatDate = string => new Date(string).toLocaleDateString('pt-BR', {day: '2-digit', month: '2-digit', year: '2-digit'}).split('/').join('.')
+const parseDate = string => {
+	const date = new Date(string)
+	date.setUTCHours(date.getHours())
+	return date.toISOString()
+}
+
+const formatDate = string => parseDate(string).replace(/^\d{2}(\d+)-(\d+)-(\d+)T.+/, '$3.$2.$1')
 const formatTime = string => new Date(string).toLocaleTimeString('en-US', {hour: '2-digit', minute:'2-digit'})
 
 module.exports = ({author, tweet, date, color, media, retweets, favorites}) => (
