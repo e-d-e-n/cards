@@ -9,5 +9,6 @@ const render = require('../lib/save')('dark', component)
 !(async () => {
 	console.time('all jobs')
 	await each(data, render, 16)
+	render.destroy()
 	console.timeEnd('all jobs')
 })()
