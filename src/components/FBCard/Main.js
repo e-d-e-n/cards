@@ -17,12 +17,12 @@ const imgStyle = {
 
 const hashStyle = {color: '#365899', fontStyle: 'normal', fontWeight: 500}
 
-const parse = (string) => string.replace(/^&gt;\s*/g, '').split(/ +/g).reduce((elements, word) => {
+const parse = (string) => string.replace(/^&gt;\s*/g, '').split(/ +/g).reduce((elements, word, index) => {
 	const spaced = ` ${he.decode(word)} `
 	elements.push(
 		!['#', '@'].includes(word[0])
 		? spaced
-		: <em style={hashStyle}>{spaced}</em>
+		: <em style={hashStyle} key={index}>{spaced}</em>
 	)
 	return elements
 }, [])

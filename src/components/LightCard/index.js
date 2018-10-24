@@ -49,12 +49,12 @@ const sources = [
 
 const hashStyle = color => ({color: `#${color}`, fontStyle: 'normal', fontWeight: 500})
 
-const parse = (string, color) => string.replace(/^&gt;\s*/g, '').split(/ +/g).reduce((elements, word) => {
+const parse = (string, color) => string.replace(/^&gt;\s*/g, '').split(/ +/g).reduce((elements, word, index) => {
 	const spaced = ` ${he.decode(word)} `
 	elements.push(
 		!['#', '@'].includes(word[0])
 		? spaced
-		: <em style={hashStyle(color)}>{spaced}</em>
+		: <em style={hashStyle(color)} key={index}>{spaced}</em>
 	)
 	return elements
 }, [])
