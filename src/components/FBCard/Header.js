@@ -40,10 +40,15 @@ const imgStyle = {
 	display: 'block',
 }
 
+const padLeftAbs2 = num => {
+	var norm = Math.floor(Math.abs(num))
+	return (norm < 10 ? '0' : '') + norm
+}
+
 const parseDate = string => {
-	const date = new Date(string)
-	date.setUTCHours(date.getHours())
-	return date.toISOString()
+	const x = (new Date().getTimezoneOffset())
+	const t = `${(x >= 0 ? '+':'-')}${padLeftAbs2(x/60)}:${padLeftAbs2(x%60)}`
+	return new Date(new Date(string).toISOString().replace(/Z/, t)).toISOString()
 }
 
 const formatDate = string => parseDate(string).replace(/^\d{2}(\d+)-(\d+)-(\d+)T.+/, '$3/$2/$1')
