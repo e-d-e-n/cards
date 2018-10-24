@@ -20,7 +20,7 @@ const reactionsStyle = {
 
 const reactionStyle = {
 	marginRight: '-0.125rem',
-	boxShadow: '0 0 0 2px white',
+	boxShadow: '0 0 0 0.125rem white',
 	borderRadius: '1rem',
 	width: '1rem',
 	height: '1rem',

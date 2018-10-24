@@ -58,7 +58,11 @@ module.exports = ({author, date}) => (
 	<div style={headerStyle}>
 		{author.profile && (
 			<div style={avatarStyle}>
-				<img alt={author.name} src={author.profile} style={imgStyle}/>
+				<img
+					alt={author.name}
+					src={author.profile.replace(/_normal\./, '_bigger.')}
+					style={imgStyle}
+				/>
 			</div>
 		)}
 		<div>

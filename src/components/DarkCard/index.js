@@ -17,7 +17,7 @@ const containerStyle = {
 const wrapperStyle = {
 	background: '#0B0B0B',
 	color: '#fff',
-	border: '1px solid #282828',
+	border: '0.0625rem solid #282828',
 	boxSizing: 'border-box',
 }
 
@@ -26,7 +26,7 @@ const headerStyle = {
 	padding: '1rem',
 	display: 'flex',
 	alignItems: 'center',
-	borderBottom: '1px solid #282828',
+	borderBottom: '0.0625rem solid #282828',
 	boxSizing: 'border-box',
 }
 
@@ -90,7 +90,7 @@ module.exports = ({src = "29683503_1619938971408545_8331702238720023048_n.jpg", 
 				<img
 					alt={name}
 					src={mapPath()}
-					style={{width: '100%', display: 'block', mixBlendMode: 'screen'}}
+					style={{width: '100%', display: 'block', mixBlendMode: 'screen', imageRendering: 'pixelated',}}
 				/>
 			</div>
 		</div>
