@@ -21,6 +21,7 @@ const wrapperStyle = {
 	background: '#fff',
 	color: '#141823',
 	boxSizing: 'border-box',
+	marginTop: '1px',
 	lineHeight: '1.125rem',
 }
 
